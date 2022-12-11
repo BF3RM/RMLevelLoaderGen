@@ -1,0 +1,3 @@
+[submodule "LevelLoaderGen"]
+	path = LevelLoaderGen
+	url = git@github.com:BF3RM/LevelLoaderGen.git
