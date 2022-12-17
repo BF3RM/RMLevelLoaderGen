@@ -1,10 +1,15 @@
-# RMLevelLoader
+# RMLevelLoaderGen
 
 Contains all files required by [LevelLoaderGen](https://github.com/BF3RM/LevelLoaderGen) to generate our custom level loader mod.
 
 ## Pre-requisites
 
 - [Python](https://www.python.org/downloads/)
+
+## Installation
+
+Clone this repo **outside** your mods folder as this repository should not be confused with a Venice Unleashed mod. It generates a Venice Unleashed mod!
+Instead clone it in e.g. `Documents/Projects` instead.
 
 ## Usage
 
