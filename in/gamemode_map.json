@@ -43,5 +43,10 @@
 		"XP3_Alborz/AAS_Standard",
 		"XP3_Alborz/AAS_Alternative",
 		"XP3_Alborz/SKR_Standard"
+	],
+	"XP3_Desert/ConquestLarge0": [
+		"XP3_Desert/AAS_Standard",
+		"XP3_Desert/AAS_Alternative",
+		"XP3_Desert/SKR_Standard"
 	]
 }
