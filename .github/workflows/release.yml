@@ -16,7 +16,7 @@ jobs:
       - uses: actions/setup-python@v4
         with:
           python-version: '3.10' 
-      - run: python generate.py rm-levelloader ${{ github.event.inputs.version }}
+      - run: python LevelLoaderGen/generate.py rm-levelloader ${{ github.event.inputs.version }}
       - name: Upload Mod Artifact
         uses: actions/upload-artifact@v2
         with:
