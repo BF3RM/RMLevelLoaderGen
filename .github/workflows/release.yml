@@ -34,8 +34,6 @@ jobs:
           name: rm-levelloader-artifact
       - name: Publish to VUMM
         uses: BF3RM/vumm-action@v1
-        with:
-          workdir: "./rm-levelloader"
         env:
           VUMM_TOKEN: ${{ secrets.VUMM_TOKEN }}
       - name: Create Zip File
