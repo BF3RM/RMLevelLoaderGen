@@ -8,7 +8,7 @@ on:
 jobs:
   build:
     name: Build mod
-    runs-on: linux-latest
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
         with:
@@ -26,7 +26,7 @@ jobs:
   publish:
     name: Create GitHub release
     needs: [build]
-    runs-on: linux-latest
+    runs-on: ubuntu-latest
     steps:
       - name: Download Mod Artifact
         uses: actions/download-artifact@v2
