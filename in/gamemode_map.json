@@ -1,52 +1,52 @@
 {
 	"XP1_001/ConquestAssaultLarge0": [
-		"XP1_001/AssaultAndSecureStd",
-		"XP1_001/AssaultAndSecureAlt",
+		"XP1_001/AdvanceAndSecureStd",
+		"XP1_001/AdvanceAndSecureAlt",
 		"XP1_001/SkirmishStd"
 	],
 	"XP1_002/ConquestLarge0": [
-		"XP1_002/AssaultAndSecureStd",
-		"XP1_002/AssaultAndSecureAlt",
+		"XP1_002/AdvanceAndSecureStd",
+		"XP1_002/AdvanceAndSecureAlt",
 		"XP1_002/SkirmishStd"
 	],
 	"XP3_Shield/ConquestLarge0": [
-		"XP3_Shield/AssaultAndSecureStd",
-		"XP3_Shield/AssaultAndSecureAlt",
+		"XP3_Shield/AdvanceAndSecureStd",
+		"XP3_Shield/AdvanceAndSecureAlt",
 		"XP3_Shield/SkirmishStd"
 	],
 	"XP3_Valley/ConquestLarge0": [
-		"XP3_Valley/AssaultAndSecureStd",
-		"XP3_Valley/AssaultAndSecureAlt",
+		"XP3_Valley/AdvanceAndSecureStd",
+		"XP3_Valley/AdvanceAndSecureAlt",
 		"XP3_Valley/SkirmishStd"
 	],
 	"XP4_Parl/ConquestLarge0": [
-		"XP4_Parl/AssaultAndSecureStd",
-		"XP4_Parl/AssaultAndSecureAlt",
+		"XP4_Parl/AdvanceAndSecureStd",
+		"XP4_Parl/AdvanceAndSecureAlt",
 		"XP4_Parl/SkirmishStd"
 	],
 	"XP5_001/ConquestLarge0": [
-		"XP5_001/AssaultAndSecureStd",
-		"XP5_001/AssaultAndSecureAlt",
+		"XP5_001/AdvanceAndSecureStd",
+		"XP5_001/AdvanceAndSecureAlt",
 		"XP5_001/SkirmishStd"
 	],
 	"XP5_003/ConquestLarge0": [
-		"XP5_003/AssaultAndSecureStd",
-		"XP5_003/AssaultAndSecureAlt",
+		"XP5_003/AdvanceAndSecureStd",
+		"XP5_003/AdvanceAndSecureAlt",
 		"XP5_003/SkirmishStd"
 	],
 	"XP5_004/ConquestLarge0": [
-		"XP5_004/AssaultAndSecureStd",
-		"XP5_004/AssaultAndSecureAlt",
+		"XP5_004/AdvanceAndSecureStd",
+		"XP5_004/AdvanceAndSecureAlt",
 		"XP5_004/SkirmishStd"
 	],
 	"XP3_Alborz/ConquestLarge0": [
-		"XP3_Alborz/AssaultAndSecureStd",
-		"XP3_Alborz/AssaultAndSecureAlt",
+		"XP3_Alborz/AdvanceAndSecureStd",
+		"XP3_Alborz/AdvanceAndSecureAlt",
 		"XP3_Alborz/SkirmishStd"
 	],
 	"XP3_Desert/ConquestLarge0": [
-		"XP3_Desert/AssaultAndSecureStd",
-		"XP3_Desert/AssaultAndSecureAlt",
+		"XP3_Desert/AdvanceAndSecureStd",
+		"XP3_Desert/AdvanceAndSecureAlt",
 		"XP3_Desert/SkirmishStd"
 	]
 }
