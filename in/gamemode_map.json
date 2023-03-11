@@ -1,52 +1,52 @@
 {
 	"XP1_001/ConquestAssaultLarge0": [
-		"XP1_001/AAS_Standard",
-		"XP1_001/AAS_Alternative",
-		"XP1_001/SKR_Standard"
+		"XP1_001/AssaultAndSecureStd",
+		"XP1_001/AssaultAndSecureAlt",
+		"XP1_001/SkirmishStd"
 	],
 	"XP1_002/ConquestLarge0": [
-		"XP1_002/AAS_Standard",
-		"XP1_002/AAS_Alternative",
-		"XP1_002/SKR_Standard"
+		"XP1_002/AssaultAndSecureStd",
+		"XP1_002/AssaultAndSecureAlt",
+		"XP1_002/SkirmishStd"
 	],
 	"XP3_Shield/ConquestLarge0": [
-		"XP3_Shield/AAS_Standard",
-		"XP3_Shield/AAS_Alternative",
-		"XP3_Shield/SKR_Standard"
+		"XP3_Shield/AssaultAndSecureStd",
+		"XP3_Shield/AssaultAndSecureAlt",
+		"XP3_Shield/SkirmishStd"
 	],
 	"XP3_Valley/ConquestLarge0": [
-		"XP3_Valley/AAS_Standard",
-		"XP3_Valley/AAS_Alternative",
-		"XP3_Valley/SKR_Standard"
+		"XP3_Valley/AssaultAndSecureStd",
+		"XP3_Valley/AssaultAndSecureAlt",
+		"XP3_Valley/SkirmishStd"
 	],
 	"XP4_Parl/ConquestLarge0": [
-		"XP4_Parl/AAS_Standard",
-		"XP4_Parl/AAS_Alternative",
-		"XP4_Parl/SKR_Standard"
+		"XP4_Parl/AssaultAndSecureStd",
+		"XP4_Parl/AssaultAndSecureAlt",
+		"XP4_Parl/SkirmishStd"
 	],
 	"XP5_001/ConquestLarge0": [
-		"XP5_001/AAS_Standard",
-		"XP5_001/AAS_Alternative",
-		"XP5_001/SKR_Standard"
+		"XP5_001/AssaultAndSecureStd",
+		"XP5_001/AssaultAndSecureAlt",
+		"XP5_001/SkirmishStd"
 	],
 	"XP5_003/ConquestLarge0": [
-		"XP5_003/AAS_Standard",
-		"XP5_003/AAS_Alternative",
-		"XP5_003/SKR_Standard"
+		"XP5_003/AssaultAndSecureStd",
+		"XP5_003/AssaultAndSecureAlt",
+		"XP5_003/SkirmishStd"
 	],
 	"XP5_004/ConquestLarge0": [
-		"XP5_004/AAS_Standard",
-		"XP5_004/AAS_Alternative",
-		"XP5_004/SKR_Standard"
+		"XP5_004/AssaultAndSecureStd",
+		"XP5_004/AssaultAndSecureAlt",
+		"XP5_004/SkirmishStd"
 	],
 	"XP3_Alborz/ConquestLarge0": [
-		"XP3_Alborz/AAS_Standard",
-		"XP3_Alborz/AAS_Alternative",
-		"XP3_Alborz/SKR_Standard"
+		"XP3_Alborz/AssaultAndSecureStd",
+		"XP3_Alborz/AssaultAndSecureAlt",
+		"XP3_Alborz/SkirmishStd"
 	],
 	"XP3_Desert/ConquestLarge0": [
-		"XP3_Desert/AAS_Standard",
-		"XP3_Desert/AAS_Alternative",
-		"XP3_Desert/SKR_Standard"
+		"XP3_Desert/AssaultAndSecureStd",
+		"XP3_Desert/AssaultAndSecureAlt",
+		"XP3_Desert/SkirmishStd"
 	]
 }
