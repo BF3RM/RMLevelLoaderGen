@@ -58,5 +58,11 @@
 		"XP3_Desert/AdvanceAndSecureAlt",
 		"XP3_Desert/SkirmishStd",
 		"XP3_Desert/TrainingStd"
+	],
+	"XP5_002/ConquestLarge0": [
+		"XP5_002/AdvanceAndSecureStd",
+		"XP5_002/AdvanceAndSecureAlt",
+		"XP5_002/SkirmishStd",
+    "XP5_002/TrainingSTD"
 	]
 }
