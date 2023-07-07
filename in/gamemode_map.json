@@ -2,51 +2,67 @@
 	"XP1_001/ConquestAssaultLarge0": [
 		"XP1_001/AdvanceAndSecureStd",
 		"XP1_001/AdvanceAndSecureAlt",
-		"XP1_001/SkirmishStd"
+		"XP1_001/SkirmishStd",
+		"XP1_001/TrainingStd"
 	],
 	"XP1_002/ConquestLarge0": [
 		"XP1_002/AdvanceAndSecureStd",
 		"XP1_002/AdvanceAndSecureAlt",
-		"XP1_002/SkirmishStd"
+		"XP1_002/SkirmishStd",
+		"XP1_002/TrainingStd"
 	],
 	"XP3_Shield/ConquestLarge0": [
 		"XP3_Shield/AdvanceAndSecureStd",
 		"XP3_Shield/AdvanceAndSecureAlt",
-		"XP3_Shield/SkirmishStd"
+		"XP3_Shield/SkirmishStd",
+		"XP3_Shield/TrainingStd"
 	],
 	"XP3_Valley/ConquestLarge0": [
 		"XP3_Valley/AdvanceAndSecureStd",
 		"XP3_Valley/AdvanceAndSecureAlt",
-		"XP3_Valley/SkirmishStd"
+		"XP3_Valley/SkirmishStd",
+		"XP3_Valley/TrainingStd"
 	],
 	"XP4_Parl/ConquestLarge0": [
 		"XP4_Parl/AdvanceAndSecureStd",
 		"XP4_Parl/AdvanceAndSecureAlt",
-		"XP4_Parl/SkirmishStd"
+		"XP4_Parl/SkirmishStd",
+		"XP4_Parl/TrainingStd"
 	],
 	"XP5_001/ConquestLarge0": [
 		"XP5_001/AdvanceAndSecureStd",
 		"XP5_001/AdvanceAndSecureAlt",
-		"XP5_001/SkirmishStd"
+		"XP5_001/SkirmishStd",
+		"XP5_001/TrainingStd"
 	],
 	"XP5_003/ConquestLarge0": [
 		"XP5_003/AdvanceAndSecureStd",
 		"XP5_003/AdvanceAndSecureAlt",
-		"XP5_003/SkirmishStd"
+		"XP5_003/SkirmishStd",
+		"XP5_003/TrainingStd"
 	],
 	"XP5_004/ConquestLarge0": [
 		"XP5_004/AdvanceAndSecureStd",
 		"XP5_004/AdvanceAndSecureAlt",
-		"XP5_004/SkirmishStd"
+		"XP5_004/SkirmishStd",
+		"XP5_004/TrainingStd"
 	],
 	"XP3_Alborz/ConquestLarge0": [
 		"XP3_Alborz/AdvanceAndSecureStd",
 		"XP3_Alborz/AdvanceAndSecureAlt",
-		"XP3_Alborz/SkirmishStd"
+		"XP3_Alborz/SkirmishStd",
+		"XP3_Alborz/TrainingStd"
 	],
 	"XP3_Desert/ConquestLarge0": [
 		"XP3_Desert/AdvanceAndSecureStd",
 		"XP3_Desert/AdvanceAndSecureAlt",
-		"XP3_Desert/SkirmishStd"
+		"XP3_Desert/SkirmishStd",
+		"XP3_Desert/TrainingStd"
+	],
+	"XP5_002/ConquestLarge0": [
+		"XP5_002/AdvanceAndSecureStd",
+		"XP5_002/AdvanceAndSecureAlt",
+		"XP5_002/SkirmishStd",
+    	"XP5_002/TrainingStd"
 	]
 }
