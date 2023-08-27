@@ -1,0 +1,24 @@
+{
+	"data": {},
+	"header": {
+		"gameModeName": "Domination0",
+		"mapName": "XP2_Palace",
+		"id": 61,
+		"requiredBundles": {
+			"Levels/MP_Subway/MP_Subway_Settings_win32": true,
+			"Levels/SP_Tank/SP_Tank": true,
+			"Levels/SP_Bank/Ride_SUB": true,
+			"Levels/XP2_Palace/Domination": true,
+			"Levels/Coop_009/Coop_009": true,
+			"Levels/SP_Tank/DesertFort": true,
+			"Levels/SP_Bank/SP_Bank": true,
+			"gameconfigurations/game": true,
+			"Levels/XP2_Palace/DeathMatch": true,
+			"Levels/XP2_Palace/XP2_Palace": true,
+			"Levels/Coop_006/Coop_006": true
+		},
+		"saveVersion": "0.1.1",
+		"projectName": "Palace Vanilla",
+		"timeStamp": 1693116201369
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"data": {},
+	"header": {
+		"gameModeName": "ConquestAssaultLarge0",
+		"projectName": "Rubble Vanilla",
+		"timeStamp": 1693119481490,
+		"saveVersion": "0.1.1",
+		"mapName": "XP4_Rubble",
+		"id": 67,
+		"requiredBundles": {
+			"Levels/XP4_Rubble/Conquest": true,
+			"Levels/SP_Bank/SP_Bank": true,
+			"Levels/Coop_006/Coop_006": true,
+			"Levels/XP4_Rubble/Conquest_Large": true,
+			"Levels/SP_Bank/Ride_SUB": true,
+			"gameconfigurations/game": true,
+			"Levels/SP_Tank/SP_Tank": true,
+			"Levels/SP_Tank/DesertFort": true,
+			"Levels/MP_Subway/MP_Subway_Settings_win32": true,
+			"Levels/XP4_Rubble/XP4_Rubble": true,
+			"Levels/Coop_009/Coop_009": true
+		}
+	}
+}

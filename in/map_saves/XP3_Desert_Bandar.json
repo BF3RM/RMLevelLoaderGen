@@ -1,0 +1,25 @@
+{
+	"header": {
+		"gameModeName": "ConquestLarge0",
+		"mapName": "XP3_Desert",
+		"id": 63,
+		"timeStamp": 1693117144484,
+		"projectName": "Bandar Vanilla",
+		"saveVersion": "0.1.1",
+		"requiredBundles": {
+			"Levels/XP3_Desert/XP3_Desert": true,
+			"Levels/SP_Bank/SP_Bank": true,
+			"Levels/MP_Subway/MP_Subway_Settings_win32": true,
+			"Levels/SP_Bank/Ride_SUB": true,
+			"Levels/SP_Tank/DesertFort": true,
+			"Levels/Coop_009/Coop_009": true,
+			"gameconfigurations/game": true,
+			"Levels/XP3_Desert/ConquestLarge0": true,
+			"Levels/SP_Tank/SP_Tank": true,
+			"Levels/Coop_006/Coop_006": true,
+			"Levels/XP3_Desert/CONQUEST": true,
+			"levels/MP_017/MP_017": true
+		}
+	},
+	"data": {}
+}

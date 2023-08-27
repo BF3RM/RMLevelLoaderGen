@@ -11,6 +11,30 @@
 		"XP1_002/SkirmishStd",
 		"XP1_002/TrainingStd"
 	],
+	"XP1_003/ConquestAssaultLarge0": [
+		"XP1_003/AdvanceAndSecureStd",
+		"XP1_003/AdvanceAndSecureAlt",
+		"XP1_003/SkirmishStd",
+		"XP1_003/TrainingStd"
+	],
+	"XP1_004/ConquestAssaultLarge0": [
+		"XP1_004/AdvanceAndSecureStd",
+		"XP1_004/AdvanceAndSecureAlt",
+		"XP1_004/SkirmishStd",
+		"XP1_004/TrainingStd"
+	],
+	"XP2_Factory/Domination0": [
+		"XP2_Factory/SkirmishStd",
+		"XP2_Factory/TrainingStd"
+	],
+	"XP2_Palace/Domination0": [
+		"XP2_Palace/SkirmishStd",
+		"XP2_Palace/TrainingStd"
+	],
+	"XP2_Skybar/Domination0": [
+		"XP2_Skybar/SkirmishStd",
+		"XP2_Skybar/TrainingStd"
+	],
 	"XP3_Shield/ConquestLarge0": [
 		"XP3_Shield/AdvanceAndSecureStd",
 		"XP3_Shield/AdvanceAndSecureAlt",
@@ -28,6 +52,24 @@
 		"XP4_Parl/AdvanceAndSecureAlt",
 		"XP4_Parl/SkirmishStd",
 		"XP4_Parl/TrainingStd"
+	],
+	"XP4_Quake/ConquestLarge0": [
+		"XP4_Quake/AdvanceAndSecureStd",
+		"XP4_Quake/AdvanceAndSecureAlt",
+		"XP4_Quake/SkirmishStd",
+		"XP4_Quake/TrainingStd"
+	],
+	"XP4_FD/ConquestLarge0": [
+		"XP4_FD/AdvanceAndSecureStd",
+		"XP4_FD/AdvanceAndSecureAlt",
+		"XP4_FD/SkirmishStd",
+		"XP4_FD/TrainingStd"
+	],
+	"XP4_Rubble/ConquestAssaultLarge0": [
+		"XP4_Rubble/AdvanceAndSecureStd",
+		"XP4_Rubble/AdvanceAndSecureAlt",
+		"XP4_Rubble/SkirmishStd",
+		"XP4_Rubble/TrainingStd"
 	],
 	"XP5_001/ConquestLarge0": [
 		"XP5_001/AdvanceAndSecureStd",
