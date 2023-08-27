@@ -1,0 +1,23 @@
+{
+	"data": {},
+	"header": {
+		"projectName": "Sharqi Vanilla",
+		"mapName": "XP1_003",
+		"id": 56,
+		"timeStamp": 1693112501293,
+		"gameModeName": "ConquestAssaultLarge0",
+		"saveVersion": "0.1.1",
+		"requiredBundles": {
+			"Levels/SP_Tank/SP_Tank": true,
+			"Levels/XP1_003/XP1_003": true,
+			"Levels/SP_Bank/Ride_SUB": true,
+			"Levels/XP1_003/CQ_L": true,
+			"Levels/SP_Bank/SP_Bank": true,
+			"Levels/MP_Subway/MP_Subway_Settings_win32": true,
+			"Levels/SP_Tank/DesertFort": true,
+			"Levels/Coop_006/Coop_006": true,
+			"Levels/Coop_009/Coop_009": true,
+			"gameconfigurations/game": true
+		}
+	}
+}

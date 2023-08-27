@@ -1,0 +1,24 @@
+{
+	"header": {
+		"requiredBundles": {
+			"Levels/SP_Tank/DesertFort": true,
+			"Levels/Coop_009/Coop_009": true,
+			"Levels/SP_Bank/SP_Bank": true,
+			"Levels/SP_Tank/SP_Tank": true,
+			"Levels/Coop_006/Coop_006": true,
+			"Levels/SP_Bank/Ride_SUB": true,
+			"gameconfigurations/game": true,
+			"Levels/XP2_Skybar/XP2_Skybar": true,
+			"Levels/XP2_Skybar/DeathMatch": true,
+			"Levels/MP_Subway/MP_Subway_Settings_win32": true,
+			"Levels/XP2_Skybar/DOMINATION": true
+		},
+		"id": 62,
+		"gameModeName": "Domination0",
+		"timeStamp": 1693116597069,
+		"projectName": "Skybar Vanilla",
+		"saveVersion": "0.1.1",
+		"mapName": "XP2_Skybar"
+	},
+	"data": {}
+}

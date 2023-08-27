@@ -1,0 +1,24 @@
+{
+	"header": {
+		"id": 60,
+		"requiredBundles": {
+			"Levels/XP2_Factory/Deathmatch": true,
+			"Levels/XP2_Factory/DOM2": true,
+			"Levels/Coop_006/Coop_006": true,
+			"Levels/Coop_009/Coop_009": true,
+			"Levels/SP_Bank/Ride_SUB": true,
+			"Levels/SP_Bank/SP_Bank": true,
+			"Levels/SP_Tank/DesertFort": true,
+			"Levels/SP_Tank/SP_Tank": true,
+			"Levels/XP2_Factory/XP2_Factory": true,
+			"gameconfigurations/game": true,
+			"Levels/MP_Subway/MP_Subway_Settings_win32": true
+		},
+		"timeStamp": 1693115620125,
+		"mapName": "XP2_Factory",
+		"saveVersion": "0.1.1",
+		"gameModeName": "Domination0",
+		"projectName": "Factory Vanilla"
+	},
+	"data": {}
+}
