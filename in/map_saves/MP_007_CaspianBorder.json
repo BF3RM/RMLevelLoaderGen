@@ -1,0 +1,24 @@
+{
+    "header": {
+        "projectName": "Caspian_Unmodified",
+        "timeStamp": 1698990154710,
+        "requiredBundles": {
+            "Levels/SP_Tank/SP_Tank": true,
+            "Levels/MP_Subway/MP_Subway_Settings_win32": true,
+            "Levels/SP_Bank/SP_Bank": true,
+            "Levels/Coop_009/Coop_009": true,
+            "Levels/MP_007/Conquest_Large": true,
+            "gameconfigurations/game": true,
+            "Levels/SP_Bank/Ride_SUB": true,
+            "Levels/Coop_006/Coop_006": true,
+            "Levels/MP_007/MP_007": true,
+            "Levels/XP5_001/XP5_001": true,
+            "Levels/SP_Tank/DesertFort": true
+        },
+        "id": 12,
+        "gameModeName": "ConquestLarge0",
+        "saveVersion": "0.1.1",
+        "mapName": "MP_007"
+    },
+    "data": {}
+}
