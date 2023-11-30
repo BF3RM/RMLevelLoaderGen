@@ -1,0 +1,59 @@
+{
+	"data": [
+		{
+			"guid": "999FEB19-B9F5-9060-BBA0-51C1F3D585FF",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "D0AD7A0F-7DE8-A02D-0105-5EA58BEF410B",
+				"name": "Levels/XP2_Factory/Objects/Factory_Pillar_96_01_01_oneside_dest",
+				"partitionGuid": "BED8B68A-729D-11E1-9230-9D98492E575D"
+			},
+			"variation": 4098237704,
+			"origin": 2,
+			"transform": {
+				"left": {
+					"x": -1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": -1
+				},
+				"trans": {
+					"x": 12.591,
+					"y": 18.880,
+					"z": -24.356
+				}
+			},
+			"name": "Levels/XP2_Factory/Objects/Factory_Pillar_96_01_01_oneside_dest"
+		}
+	],
+	"header": {
+		"gameModeName": "Domination0",
+		"timeStamp": 1694751624343,
+		"projectName": "factory modified",
+		"saveVersion": "0.1.1",
+		"mapName": "XP2_Factory",
+		"id": 68,
+		"requiredBundles": {
+			"Levels/Coop_009/Coop_009": true,
+			"Levels/XP2_Factory/Deathmatch": true,
+			"Levels/Coop_006/Coop_006": true,
+			"Levels/XP2_Factory/DOM2": true,
+			"Levels/SP_Tank/SP_Tank": true,
+			"Levels/SP_Tank/DesertFort": true,
+			"gameconfigurations/game": true,
+			"Levels/MP_Subway/MP_Subway_Settings_win32": true,
+			"Levels/SP_Bank/SP_Bank": true,
+			"Levels/XP2_Factory/XP2_Factory": true,
+			"Levels/SP_Bank/Ride_SUB": true
+		}
+	}
+}
