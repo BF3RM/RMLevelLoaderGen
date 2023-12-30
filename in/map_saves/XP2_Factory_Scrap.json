@@ -28,11 +28,6611 @@
 				},
 				"trans": {
 					"x": 12.591,
-					"y": 18.880,
+					"y": 18.88,
 					"z": -24.356
 				}
 			},
 			"name": "Levels/XP2_Factory/Objects/Factory_Pillar_96_01_01_oneside_dest"
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "BA80C894-A7E6-466E-AB90-D2C92719A880",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "953E44C5-F68D-4B65-92C8-7627FBABE1C2",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "252AD878-F77F-4C52-8C3D-D5E802B226E2",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "CCA8D475-691F-44C5-9C3E-16F291FD6C0E",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "02DC6D44-2938-49DB-A3F9-A7975AB2AB8F",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "93A3C662-7B72-4254-8297-FAE9FA2AF8D2",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "E41DCB6D-8708-43FD-A977-0BEF8F17210E",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "277B0B77-9886-4EAD-9833-A5AAF6EEEB62",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "76CBDA13-0ED5-41E7-A61D-48641CF37369",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "09F91967-7BEE-4476-9316-276556102A60",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "8723D06C-DD9A-4C8C-82A2-04005480A8F3",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "02A4C8D7-85E8-4565-B169-283C7386C966",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "C2A4A69B-2E02-40CE-87B8-7B9F9C65E183",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "6AC50E1D-CACD-45F2-8EAD-057C62C419F6",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "87F6FB09-A405-47C5-A8BA-340FCB4E0359",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "B77B73B9-38F2-4576-A5EF-563D9A1F3D0B",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "81382A29-E722-4FB9-AB27-99C8BAB39E1B",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "B750D99C-6EB0-49B3-A8B5-E6A4D2D83196",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "04B17BD6-F053-4488-B549-B2AB3DC06CEA",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "BE39D62E-68D9-4026-8D1C-84D28589AE9F",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "C1A98CFA-D38E-41E9-90C4-4E2D570B646B",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "0AA5F699-72CD-4B45-BAF8-2310217E09E7",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "05F8CE19-A6F4-4B0D-ABD9-271091045276",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "5F942FCE-0E13-4D07-9A5E-26CE1F7148AF",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "8E3B636B-8DE1-4CF0-98BC-53ACA957D6B9",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "B33219ED-29C8-491E-B80C-6D5D6D9150AE",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "8A0B3524-D13B-447A-BF38-F6F79AB87353",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "3C0E4D71-C598-427A-AAC1-6FF1EAC9A03F",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "1C480578-AE2E-4318-B0C6-B8B1CB618813",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "297D88C7-079F-47C6-9A7E-34DC6A2DE683",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "BA0A83CF-DC6E-488F-9FA9-F13C99513F99",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "B8C95B5F-78BD-4615-88EE-E977DFC01C80",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "446FC373-07C7-4919-ABDC-30964D718F8C",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "68D2296A-3237-4228-9F7D-512621E47676",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "E45E18C9-AD9D-4833-B918-BF98ABCEC35F",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "31C97371-31A2-4021-94F7-7F7E0F68A94F",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "D79C5454-70F2-4A1B-BADB-52B4E5C92306",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "F14C9FF2-5BCD-4A90-A523-B5597E3F8018",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "F38AC7BB-F1FC-4F90-9DFE-368773836672",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "141B3FAE-F67D-4428-A918-346BDB22D053",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "76C1FD3C-8A23-4D1E-9E33-C9FC7923903A",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "D0AA60CD-A2D5-43F1-ADE5-891D6E956CB8",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "38D39CCD-E685-48A1-8616-521654D390AD",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "C4D7C0CB-4CFA-4104-885B-BC3FAE77A2E7",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "0AC323D1-58D2-47C8-B399-ACAACF37F963",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "F842A9DB-3B5E-4DB0-BB50-1AE7812C5942",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "0C1107D0-4331-456C-B40A-C035F8B78F62",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "A6D2AC81-5D79-493D-BF67-5B0BB0D3D95B",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "FB783406-40F0-4EA7-A67C-B9BDA65BE1A6",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "EF3277B7-FB06-4897-84B1-6B24192DC4F9",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "7A2F0D68-0DB3-485C-8402-3E69441291EB",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "2E346133-E6EB-4C59-9193-771028B0F3E3",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "05471777-37AE-4C84-83CE-248A0E87966C",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "9AA1F071-6E1C-49DD-B133-CB967F8F86B9",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "9047F196-010B-42BD-9327-50BF0052A1C9",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "6C25279E-7E84-4798-A6D5-0D4233847CBD",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "13D45DE9-4D2B-4EE8-941E-1B0E7C90304B",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "7F6AED2C-0AC5-49F0-A9F6-430F299B30B0",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "14731BD9-F38D-4820-9424-93A20DD0AF25",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "9A3586FD-65D1-4465-AD3A-C16AC28BAC48",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "EE2CBB4E-B7AD-41AD-A25E-3C88227D1A3F",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "F7D21F3A-ED92-4A5C-BCBA-AA0F4CBF1594",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "6B36B799-F5F4-4B35-ACF0-D5C1C0F988D4",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "2A049F56-17F9-4EE2-8244-8B45DD6D3CFD",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "EB04156D-3316-42DE-B124-0C5787C3B17C",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "88455889-7321-46FC-B7BD-2DFBFADD53BC",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "AA04B092-3B4D-4682-8279-A7209F0AC91E",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "0C92AE31-99A4-4B6E-8BDD-FB3A54E5B551",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "F1BDE1CB-ED1C-4AC8-A289-E781C24E67ED",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "B157BB9A-1464-4103-AF3E-1A4C67F06F9E",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "8B63B029-88CD-4BDC-8BEC-BFFF69B02A1C",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "48AAD5C4-C301-4E97-869A-E20E34C213F0",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "AD068B11-4AD9-4424-BD21-DCCE981DA64D",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "222259A4-D49D-4209-BAF3-1666D4932559",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "3A716D4B-41FB-44C9-BF5D-8D3A4D057007",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "2435992F-474C-4D82-BA65-63D763B4A0E8",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "883C5C30-A69F-459A-B9D2-D30DD6C28A27",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "18299FCF-ADB4-4AC6-A258-702F333C66B5",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "EDDC63D8-0288-4908-9F1A-A9CB1B55B5A9",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "A97588AA-EBE0-4790-9308-5AAF7E6AA040",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "5414525D-1EAA-4AEC-894F-7EB098386B8E",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "85F3F864-5D82-423B-A2E3-D568515C5E07",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "A408F2AB-5B0E-4ACA-BA62-82B79269C7B1",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "B23AFA47-E58A-4FFA-A1DC-7AB0031116E8",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "0B048E31-8A93-4590-A17B-D8DBBDA4E714",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "D9561B58-D78A-4DC2-A610-143553A52131",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "B70134A1-2BBA-4960-BC77-C43865CA5530",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "0BB97E18-49B9-47DB-8ACD-E03B69D93213",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "677D2DC8-FA52-40C3-BFB5-1AA498366D82",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "45D52171-EAF1-490A-A133-26BA90C3DD12",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "39DD9688-4FFC-46B3-8200-4829A7B74BE5",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "4058BA4C-2DDA-4E4C-BE48-81FA7D82C3E7",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "13466C12-991A-4009-AD91-E66816E1A391",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "6042B95C-C612-4227-B70C-750D3CD3A833",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "4C68AF0A-D322-433A-A64E-484DA904523B",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "02C6473C-C3B7-4620-8724-3012E4AC0229",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "2E31C295-8951-4DBC-A635-1EB477E68365",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "1128B0AB-8B0C-4DFA-A8C9-3CFB5673AC87",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "99742184-EDF7-4541-B8A2-88BC52072EC2",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "A0E8E814-D03E-4134-B73F-0B6E7B20EC04",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "243644A8-0411-421D-B9A8-542E4891EF89",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "8E9D4529-5A12-4641-AEB9-FCE8165A078B",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "6C72D6C6-5680-4E79-86BE-212BBEBFDCCA",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "A82767BF-0306-4D12-9599-8E77609A54A5",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "F41C0C5F-1E02-4C5D-B0FF-7272788D4C7F",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "8AC4B677-0E30-43BD-8EF4-A77A752E6ED2",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "5E0F5644-C6F7-4E12-9E4A-839C9BE7E09F",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "6A58414E-1DCD-447F-BBE7-F105131A290E",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "CC16378E-BDA6-4AA8-8159-A2CB17047991",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "F6F6E5AA-5B73-4058-872B-98C16B23AC57",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "509388C7-4658-46D1-A4F6-E13724830603",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "A1611A10-3597-4A65-95CA-4F5EB681F707",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "A0264B51-AB1E-48A4-8D96-AE1B7F198BD7",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "FB9C7309-6C45-42C7-84D4-4E1B88111B6E",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "4E26022C-E7DF-4E24-9059-CE407199EBF2",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "9210AE06-466E-4D2D-A756-519198BEEFAC",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "7ED24725-A6FB-4CD0-B49B-C724507CEFCB",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "FFAB8327-D9F2-4723-80C6-7D214A8B754D",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "F372E408-AE54-4D84-B790-3844433589B9",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "9073CCF0-B8E9-4551-B870-DD9806F987C1",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "3E10BC08-E5E7-4011-AA05-01B919DD05DD",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "6659A081-23EF-4305-9E20-95B5022D92EB",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "CA73BF39-59AD-419E-89BF-C308DBAC4F69",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "B5F22AF4-BEFA-4293-8D26-7212E8E26BFE",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "02302EC3-1C9E-4557-A56E-6A476E06F4A7",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "A14C8CC7-BA0A-4039-9BA2-7B4460BE3A34",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "D3DBECF4-5479-476F-9C5E-40757F0682B1",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "8EB3AFB2-2067-49AA-869E-B19090492400",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "7C08024A-6427-4139-8D81-D922F21AACBC",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "976DE5D7-E585-4FDC-A128-4C2FD04FD2BE",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "349F4944-A9F6-4D14-9584-C9B7B43504EA",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "43BE5C8E-ACC3-402C-91F0-9D5C7DFA32AB",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "530C154C-E7CF-43C0-9B0F-D7B16E181BB3",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "7E6AE889-3229-4F6E-8263-C15F2F3A6E12",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "505F36F4-8390-4983-A863-6D0CAC4C2628",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "3CEE06AB-E535-4F47-A2FE-70DC357A3759",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "2EEF15EF-C2D9-4AD9-8E91-296961627DA4",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "F6CBECD8-AADC-427B-BA81-1AF7A2362BF3",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "810BDCCC-2CFD-42E5-A849-3614D1151551",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "9FEFA9C3-00A3-4761-A677-AA94237E15F4",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "91CA0BBB-1AB7-48CA-96B0-78EF3E08B8D7",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "128B595C-FF89-4FA5-A83F-C00CE8D54FC3",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "64E72617-4506-4335-B89F-1015564D91D8",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "C28BB44B-458F-4BF7-A164-66AECEE0B590",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "9BDECAA3-E911-4EA9-96B8-7399E863695F",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "F6186002-F6E1-4D3E-94CF-32C84A0479D6",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "57FD6C41-377B-4F7B-A944-4662498E82ED",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "B7A61546-2028-4C6E-9D55-94C19EA16DFD",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "011DE9AE-D17C-4DF4-AF6E-D6F4FC38E2EE",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "333EEBA8-8C35-4D1F-B65A-F80D6AF96C6E",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "F358F05B-FCD5-47EC-9471-660ED651FE13",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "692ADEE9-F80F-4007-A49B-BF95E63BC58B",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "AD6DDBD3-D45B-4275-8E87-257B9E2290CC",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "5B34CE71-8569-4946-A3D8-616C633A5896",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "5E4A20E0-7120-4709-96C1-1F45BAABA97D",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "D808AF06-EE8F-48F0-AD6C-6BAB6552757A",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "69F31D48-F5E5-42E4-894C-1A2442B41EB0",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "5D0ED316-F4B3-41A2-881E-AA81E87221D5",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "F1BFE760-766A-4382-B221-C6B4A1193912",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "90C878E1-B3E7-4785-B52C-49287426F278",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "69663021-AECD-4E16-87FA-086BC2F7B2EB",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "07C39737-A6FB-49F9-8A7C-800DDA8AEE53",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "D2A9D0C3-328F-498A-A6FD-00B86F430CA1",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "DA3E2437-4A4F-47D5-B2F9-444C6B51C0A9",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "A037E4F0-BFC2-4E3A-80B8-CBE7C57A259B",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "8DC19BBE-D246-4BF9-AA86-87211C0709D1",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "D67B5F94-7781-4963-B2AF-0E75ADAD58B1",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "A7CAC6E1-2000-4697-969B-A0537914DD86",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "55F06CC6-6CF1-4EE9-A8C5-3B077D33AAEC",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "D190AF5B-DF5A-4C6F-8798-256B6DB13006",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "DB9CA747-98C8-4D8F-A1DE-BD98105819E6",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "C9CB9B3B-CEF6-4412-8750-FCE056151040",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "6F13B46E-7485-48C9-AFA3-D6C3F6797293",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "9FDDC93C-D0E6-4C0B-BED2-37ACEC67D64C",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "8C8CEE2D-8C97-427A-9256-5C026A6C92CF",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "555E5FFB-5A8A-4EBB-B7E0-198A79A3221F",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "39BE456A-25FC-46FE-8BCD-B645083A5BED",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "29FCA418-AFD4-4439-BBF5-9BF38BE33A36",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "B854DDB8-FDDC-4D95-A6EF-AB34B46B4617",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "5E16B6B0-BE38-473E-8FD4-4C0A672B628E",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "9F58BA87-541B-4D88-8B8E-29CDA23D91AF",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "9F05D560-7926-4336-9FDA-9D5C8CD90806",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "A3E88832-FCBE-46EC-A385-19012AD0A156",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "2FE00E47-0B44-463E-9D4E-80D47D539802",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "3DB74215-7909-4DD6-A6D1-BAAADA0E4768",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "BD23AD1D-317C-4F5F-A7F7-9E1A92BFBCF9",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "F381B869-E736-4FFA-9573-74D1ED9C4C14",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "D902CF00-BA40-4637-B71C-EE6082E69B81",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "1C5DF366-D10B-4F32-AAB4-D8EC843CA1EF",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "D79C2264-A5CB-40D5-81E1-80E11747B36F",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "7DDB9BCC-6A70-4C26-BA8B-963A7E80F24B",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "8CB35639-F3D4-41E3-A279-ACC793426666",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "2549002F-C8F2-48C7-B054-201C3CB7D4BC",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "13D9DCF8-290C-4DEB-B481-35A1F32D3F1C",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "36A838D2-3AEA-4FF6-A50B-773FCD9DB9D6",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "18D05FB7-13EA-4AB9-B115-055F0B47C7DB",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "E6121BEC-D407-458B-B7A4-DDEECFB771EB",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "CDD89710-BFD5-4C12-B050-D6612BE620AD",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "4AD5E652-5954-486D-BF0D-D04C9397403B",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
+		},
+		{
+			"origin": 2,
+			"name": "Objects/Sandbags/Sandbags_Wall_Straight",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 14.253,
+					"y": -5000,
+					"z": -31.83
+				}
+			},
+			"guid": "88E35C15-3B53-4E07-9123-C7217F533277",
+			"blueprintCtrRef": {
+				"partitionGuid": "41864ADA-4E14-11E0-910C-967BA89DB923",
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
+				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
+			}
 		}
 	],
 	"header": {
