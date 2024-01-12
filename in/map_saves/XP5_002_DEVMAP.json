@@ -18950,6 +18950,6606 @@
 				"instanceGuid": "C68519A0-10A8-2B56-42B6-B69F75306F44",
 				"name": "Objects/Sandbags/Sandbags_Wall_Straight"
 			}
+		},
+		{
+			"guid": "1EF78938-F7D0-4350-996C-7AE3E9C95744",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "3CD97A3A-A05E-4FCB-A0CE-AC5D600B3E25",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "18283BC7-64E6-4441-BA26-3BEF27D71089",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "55EE66E2-38C6-4F6C-B33A-DD79B772B4F5",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "00947D14-6BCE-4432-97A6-D5BF8814AD20",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "99306F86-6229-4E9D-9661-51085F8468C5",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "D57DCCDE-1EDB-4D0F-B78B-83235E382B7B",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "18B74D46-B534-43A4-8B13-4D7151E9D157",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "5887FF10-4401-439E-AF55-F9D317DF0150",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "40E034EC-F64E-4D48-B28A-35FC484BC733",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "3D0907C0-6A55-4C52-8873-4A17A1760638",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "7B64D5CF-37AA-4EC2-BBF6-B88758047B3D",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "0F222528-B4B5-41B9-A01C-9DDE751D8AF3",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "31EFC74B-72B7-4B3C-B302-CE6E5085DD1F",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "775DDAA2-D48F-4866-91EE-403F0256BC0C",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "A3685E26-C303-45A5-A06D-21E9F6D11F29",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "D6CDDF50-F2E4-411B-BC23-C351EA7C64A2",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "F9E71AFD-F591-44B8-A465-A1054DCD1C1B",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "FE59A3FF-661E-4B4F-AEB6-D190860F2EA5",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "3B5E5A12-92CA-48C7-9896-0ABE3B6C674D",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "0A87159B-A631-4D1D-86FF-273C9D683707",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "09FFDD5E-94CA-4F95-A41A-22136BE62B2D",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "3B06DB08-9DEC-4B95-AE43-7BF68936187D",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "D806FE0D-DBA8-48DD-8254-7886B1EFAB65",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "0ECD8915-4DEE-47A5-9A70-B26A7822219A",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "D6340955-D616-4F29-8B72-DF8DC3879449",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "C78B9A9E-9362-4F45-99C0-4B686DF679A9",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "FCAECF4B-8A9B-406B-A392-2053388C9E26",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "0A652B75-C497-46B8-96CD-2868F7E3459D",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "C240D6FB-30CF-436C-A364-01F281B0E6F5",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "35A72E4B-8529-4537-9627-BE79848D0A7F",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "D03AFC90-515B-44E5-8E23-60CDFDD080B1",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "DD726781-B952-403E-958F-94C7B5796861",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "7777E8A5-09AE-45C4-AF94-4B3A80B7CD47",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "AA608E2F-C53F-4BEA-847E-382FA5BDED6F",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "803F0374-D644-477B-AB19-CDB4E4CE6651",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "1A1E29DA-931A-4B84-8AFB-43F30180CE10",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "1F06B310-0F16-4C47-9A89-1ABAF6B0A7A6",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "66853285-E9B6-48C7-953D-A49DA21249F4",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "D9E7DB05-6052-47D6-A18E-8ACCA0C83E33",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "D5C7B3C6-B2DC-4CBC-96D6-D0E17D8FF44C",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "4B233D68-F296-4FCB-A92A-ADB406749382",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "C17AB357-4F66-4B95-A108-C12AF5405A1E",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "EEDC766F-197D-4BF3-BCC3-C1F9F7CABC53",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "17B4D1D3-4B5D-46B7-883F-CB6A343E97D9",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "649B9BD4-759A-4DAE-866E-0FE732B66B05",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "D80889F9-77BF-4909-93A8-C09051178D30",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "2B602D19-5464-444F-8C40-B856A18CE8C7",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "405FB556-DCF5-426B-B88D-F9B6DC69FF8D",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "15121242-EE7A-4CAA-8262-612ECD90010E",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "F5BB65C4-2AC8-4F65-AD60-23C6F14272DB",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "0C999708-2F40-45E5-BF05-1D420E89F84D",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "298004AE-1CEC-4091-A7E5-DF223D41A4B4",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "C42BEB94-E64A-4717-BFB8-666648B6F160",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "6B3BF04B-CC15-4913-B562-DF84BB290705",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "682FFD77-65C2-4F55-A53D-9DEB370D4DBA",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "F3F470B8-0F64-4D9A-931F-118290EDEF05",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "DF7B1E1F-E2AC-4791-B070-7AA469544E65",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "EB1ED04C-B663-4DE5-90EC-F9C12566766E",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "421A22CD-65B9-4D44-9104-72CA8671442C",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "97580D5C-0C4C-4863-8EA6-B767C6F39A43",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "038D84E4-DFE3-417B-BF87-7123F0DE9AEE",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "AEAB6131-A51A-4E65-999E-7A7ECEDD3D09",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "AC991A66-A16E-497E-A2D4-38737D8C72D6",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "59634641-3064-4F0B-A9D2-8AFB6F460519",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "B251297A-7262-4666-B4B3-F2C07A5687A5",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "B9E59CFF-13E7-4CCD-BA5C-619B44F3B71C",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "59671A11-91D6-409E-9645-40BB98942FA6",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "A93FC4EE-71FF-497E-A68E-9C954DFB9E8E",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "49F5F9BA-1422-48E6-8487-514765A20770",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "AEE5C0DF-9EBE-46CE-9DD9-9840F43A2F79",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "F8C38079-3832-4551-A36A-D66747DDBDCD",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "03679BA9-479E-4C4A-B13D-85C70B8C94BA",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "AD14431F-EF90-4052-99E0-DE52617F992C",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "401C185C-B826-4411-B82E-CF87C9993CAA",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "345D83A3-4AA9-411F-8706-9A92DB7DF2D0",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "D27C786E-922C-4FFF-AA15-5B3DB2143A08",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "86DE4962-F3C5-4EF4-859B-37E35BFE29C3",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "66D0DAB3-264A-4798-8728-584BC4A8FE7F",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "A017770C-B676-4C50-B427-A70BB71124F0",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "152D474C-9541-4182-9D8E-42351D5AC191",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "43D49A50-4EFB-4F23-86BD-38D0A2CF3CC9",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "0CDEA19E-7EB1-4EDC-8D61-FBE04F211B79",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "8F01517E-B439-40EE-B473-EC499F36BC4A",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "65698FE4-9DDA-4EDE-83D2-778C2D1F6E77",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "F63FA8B8-C9CF-4584-B4D6-97D2A6FB23E8",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "44979ED3-1823-4133-9EA3-FEEA86EFA7A5",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "1C2811C7-1E00-430D-8846-8E49355D3212",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "7BFB3B89-37E0-43BD-BF5F-412F68573E8C",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "E7CF41FA-1276-4759-8087-B024EFCFE193",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "454AB16B-FF6C-4676-AB82-73BDBBF5AEDC",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "BF03E936-24B4-4816-BF36-04F46F6B681C",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "72F5D272-8B18-435F-969A-B007285DA607",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "21502689-F260-4251-9E61-A3E7B22FBD8C",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "185295E4-47CB-485B-9E42-F2E9C5225A64",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "92F38518-7797-4269-9981-73103F69C79C",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "3E9E1A3A-D0A3-48C9-A9D2-EC8C84BC3F11",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "48D2112D-6672-404C-BF8B-E050748443CB",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "66F78377-7698-4201-BA2A-B74FA0D8DCF1",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "E9F693A9-9224-46E7-B68E-3903999A0650",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "A034BE7C-4045-45CC-B406-E94CFD9A9F6E",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "37F7CC77-F0CB-44FB-BBEA-C0D34FC1CFC2",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "C6190E1B-6C3C-4D25-84C2-F2DDA650C3B2",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "4B0E99DD-E6C6-433E-BA69-89DFF3F03748",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "31B89222-8618-45E0-8E36-FD604B15BE32",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "FE738670-FD01-41A4-A4CC-248F5A0C602F",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "67BD0E35-102F-4BA6-ADA3-B305163C06E1",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "C5654360-CB44-4C19-BE0E-D300242EBE68",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "3F497B51-5CF2-4556-B620-51FD0F4CAFCB",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "F511A431-099F-4827-A902-2756E13CB883",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "35C6C506-151C-4C94-AD24-D220BB2B28D5",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "F4B1CA6F-7822-47D1-BFC3-521B631982AC",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "D89B230C-8AA8-486D-AF01-5DD0E91A8D98",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "40342002-76E0-4D9D-9F72-ECE07D4B7CF3",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "248F0FC0-0633-4947-A0B9-F1C5630A296F",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "141BD1DF-52D9-430C-B095-D00C60B4FB64",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "6DC5E197-CECA-421F-B8D4-24C78C84B0BB",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "0C8BCA61-EEA0-4D44-977F-5236AFAA25C3",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "DE8FF8CD-78ED-4C49-A7FB-FE96C9021F7C",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "AAF582B5-BFB1-488D-9AC9-1D5E0E66AD98",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "F0F89D26-416F-44D1-8FEE-D2A579B04DBB",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "6110FD3F-1ED3-4758-A1B4-9982C6FE56D1",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "4FC9B42A-85FF-4036-AE1A-C445C0140BDE",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "2FECBD54-C293-4D4C-B476-595D379FFA3E",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "54055538-E8DD-4A86-80B9-512CCB2EC03A",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "A490A521-956F-43F6-85D8-78D789622A96",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "A35FC63F-B73D-415C-93FB-55BACC7CFFDA",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "1624BBF5-0BE0-4958-888B-141CFF0C4CBB",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "3314307D-007D-48AF-9F49-06EA44E59A18",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "0C9AD693-D03A-4455-8A89-B676C6E50580",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "9CFB39EB-1439-456D-99D7-F042DA8D0C39",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "09FFA22F-6EDB-41EB-A8FE-1DC7406C6426",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "6E3C50D1-4157-4A72-926A-41B7CF49CEBD",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "88B65B1A-E68B-4C13-ABC4-C2A0E5CB98FF",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "14E0F069-A1A0-47FA-A39B-FD8E65F326F3",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "BD775055-1EF0-467E-BAB0-729076211239",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "24BAB176-1076-4FA9-B8B2-FCA6B0A4D9A6",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "FDDD17FE-4931-45EA-8ED4-856DF15FF121",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "FD268AD5-9F26-4B9B-AF93-A32C42DD9199",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "E57AE208-6580-4E3B-84F9-D589F7BB2F80",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "15C86FEC-2DBE-41DF-9410-A72BA279D80C",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "B2814CF6-E615-4480-B878-18570E42F1FE",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "CBA60C0C-0F58-405A-8352-391D4EB64B83",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "000EB5E9-0A0E-4ACD-A57E-5A7F8B4F7DD2",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "323E72B2-23AF-422F-A8E9-7558B3E26D89",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "C7A05992-3B5E-40DB-BBCE-E84503BF5B07",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "FD3C7D5E-DFAB-4BA6-A4E5-933ED21B2BE4",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "6CE74CE7-BB06-43EF-ADF7-07CD6BE34990",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "2526F0E3-79DD-45F7-ABC6-F8ECDCD34990",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "79DE6F6B-EF55-4BB8-8523-EF78EEB9ADBA",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "736070DB-B14C-4CBE-94DD-8E4A05A72990",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "ABBFDCD8-EE21-45A5-89E0-9BE4B3ED20E0",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "D6670383-8AF7-4292-B609-9475A8E96480",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "D011872C-DB35-413A-A65E-DFB45A804020",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "E45861F6-C3E9-44DF-A530-4B62E809D2FF",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "DF43FD6A-3623-4D68-A562-A1C19FFABE33",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "C9F93540-A81A-4A45-A3C2-FF604842A046",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "3CC95D4F-DB23-4568-9248-5EF693CD3575",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "99520D69-2CC3-4A7E-85AA-7F1D6849CC9F",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "51F90932-DE95-4B01-A208-C1A4ED42A72A",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "9016EDC1-5CD6-4C74-BC1F-B6BF3461789F",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "940731CF-C180-468C-A65F-919CC050FE40",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "447AF137-AF5A-4873-B505-252B7B2F0DF6",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "06427AD9-355D-407C-B741-21F39067B806",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "05DCCDF5-3B60-4440-9C14-B4BC5FB0E4B1",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "F287041E-FF69-45E3-BE12-9352FF4883F8",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "E7EA0AA9-8D02-45A5-A767-50A562BFB1B0",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "3D1C512A-7936-43D6-BC73-267C366E9B87",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "C8BB0C8F-310E-4F39-AA23-45F059EAD477",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "2BFA0CF8-B052-489D-B58A-3C58CDCDE31D",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "CDF9B079-6D94-4F61-8B54-BFC584558397",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "5AE64C29-F1A7-42F9-8CD5-F5D5AEC4F70D",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "C6DAEBEE-E2F8-4182-81B9-420B3267B739",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "39A7DA28-F840-463A-A240-A459623C0522",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "1959F7F4-2198-406E-9A0D-6B30C65942D7",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "7AE0BE50-0FC2-4DF3-B83C-41662F6F97B9",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "E959F62A-0E79-4773-9E5B-B495A1833672",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "E680548F-B4C3-4257-B556-FAA75D0FBF2B",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "E28E53E6-CC8E-460C-82D5-87B5BEC4EF32",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "A5F3F257-CE97-4D25-B4FF-63E465EA443E",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "AB045BC8-948E-4EEF-8B95-B31C97B15A7A",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "E60C3648-7D92-43FF-8643-72C30EAC9482",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "936FD08E-B629-47C4-BB8D-F278B9813112",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "C6B99121-F7B4-4F3A-B1B1-6E39C2AAEBD7",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "122951FB-3565-4087-A5E8-C099DD91183B",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "52AE32DB-B67C-40D4-A41C-E354B6DF277D",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "DD70171B-AB5B-4A7C-A505-69FD3646FC22",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "37322CEE-D566-4F10-9EBA-D95E49DE438E",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "50E55FE3-7C55-4A07-8C26-6B9FF63642E0",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "F720DE8A-F2E9-401A-9625-2E62C131CA7B",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "64D46A5D-551C-4721-8787-9D0309015DEF",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "C5F4B275-A133-4699-8013-C67EDE89D704",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "FB32372B-BD99-4248-A152-746437FC1806",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "3A408319-4E8F-4E60-A514-FFB91FEF62FC",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "E8EF1047-11E4-40FF-A8E9-32FA928B04D6",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "9F7C3780-6A6C-4507-ABC2-CE71047EB8C9",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "C2D1C06F-22CA-4BA2-A7D9-B690E30BD1D4",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "1C9BCA69-F0B6-48F3-A79C-25F120E709B6",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "9FAC3FB0-1344-45F8-B3C4-490513701AFE",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
+		},
+		{
+			"guid": "77C3A073-E470-4836-A52E-9FA69BC1D964",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": 100.604,
+					"y": -6000,
+					"z": -91.209
+				}
+			},
+			"origin": 2,
+			"name": "Props/StreetProps/RazorWire_01/RazorWire_01",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "90F7C75D-FC31-11DD-9978-FE37F49D451C",
+				"partitionGuid": "90F7C75C-FC31-11DD-9978-FE37F49D451C",
+				"name": "Props/StreetProps/RazorWire_01/RazorWire_01"
+			}
 		}
 	]
 }
