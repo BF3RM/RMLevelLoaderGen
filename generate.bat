@@ -1,4 +1,4 @@
 @echo off
-call ./LevelLoaderGen/bin/levelloader-gen -i ./in rm-levelloader 0.3.5
+call ./LevelLoaderGen/bin/levelloader-gen -i ./in rm-levelloader 0.3.6
 
 pause
