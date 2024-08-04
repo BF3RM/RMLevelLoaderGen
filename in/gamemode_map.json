@@ -117,5 +117,11 @@
         "MP_007/AdvanceAndSecureAlt",
         "MP_007/SkirmishStd",
         "MP_007/TrainingStd"
+    ],
+	"MP_012/ConquestLarge0": [
+		"MP_012/AdvanceAndSecureStd",
+		"MP_012/AdvanceAndSecureAlt",
+		"MP_012/SkirmishStd",
+		"MP_012/TrainingStd"
     ]
 }
