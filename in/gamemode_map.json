@@ -110,7 +110,8 @@
         "XP5_002/AdvanceAndSecureStd",
         "XP5_002/AdvanceAndSecureAlt",
         "XP5_002/SkirmishStd",
-        "XP5_002/TrainingStd"
+        "XP5_002/TrainingStd",
+		"XP5_002/InsurgencyStd"
     ],
     "MP_007/ConquestLarge0": [
         "MP_007/AdvanceAndSecureStd",
