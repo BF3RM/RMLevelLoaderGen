@@ -125,12 +125,5 @@
 	"MP_012/SkirmishStd",
 	"MP_012/TrainingStd",
 	"MP_012/InsurgencyStd"
-    ],
-	"MP_013/ConquestLarge0": [
-	"MP_013/AdvanceAndSecureStd",
-	"MP_013/AdvanceAndSecureAlt",
-	"MP_013/SkirmishStd",
-	"MP_013/TrainingStd",
-	"MP_013/InsurgencyStd"
     ]
 }
