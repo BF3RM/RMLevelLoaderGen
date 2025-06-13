@@ -1,24 +1,2882 @@
 {
 	"header": {
-		"saveVersion": "0.1.1",
+		"id": 125,
+		"projectName": "WestBank - 0.0.1",
 		"mapName": "XP4_FD",
-		"projectName": "Monolith Vanilla",
-		"timeStamp": 1693117982297,
+		"saveVersion": "0.1.2",
 		"gameModeName": "ConquestLarge0",
 		"requiredBundles": {
-			"Levels/XP4_FD/Conquest_Large": true,
-			"Levels/XP4_FD/XP4_FD": true,
-			"Levels/Coop_009/Coop_009": true,
-			"Levels/MP_Subway/MP_Subway_Settings_win32": true,
 			"Levels/XP4_FD/Conquest": true,
-			"Levels/SP_Tank/SP_Tank": true,
-			"Levels/SP_Bank/Ride_SUB": true,
-			"Levels/Coop_006/Coop_006": true,
-			"Levels/SP_Bank/SP_Bank": true,
-			"Levels/SP_Tank/DesertFort": true,
-			"gameconfigurations/game": true
+			"Levels/XP4_FD/Conquest_Large": true,
+			"gameconfigurations/game": true,
+			"Levels/MP_Subway/MP_Subway_Settings_win32": true,
+			"Levels/XP4_FD/XP4_FD": true
 		},
-		"id": 65
+		"timeStamp": 1749811497742
 	},
-	"data": {}
+	"data": [
+		{
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "609839E4-5FB9-44F1-979A-4350639DE8C0",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E",
+				"name": "XP4/Architecture/MEC_House_Low_04_Breakable/MEC_House_Low_04_V2_Breakable_XP4"
+			},
+			"timeStamp": 1748935895227,
+			"guid": "5D461444-E7B6-6ED2-7E76-0E9A18C4A782",
+			"origin": 2,
+			"name": "XP4/Architecture/MEC_House_Low_04_Breakable/MEC_House_Low_04_V2_Breakable_XP4",
+			"transform": {
+				"left": {
+					"x": 0,
+					"y": 0,
+					"z": -1
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"trans": {
+					"x": -36.502,
+					"y": 72.184,
+					"z": 109
+				}
+			}
+		},
+		{
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "30AD3C4C-D382-459C-B9D3-522FBF15D005",
+				"partitionGuid": "82FA7E02-B9C2-4292-9A02-EA0236BA15AE",
+				"name": "XP4/Objects/Beams_01/Beam_01_1024_destructible"
+			},
+			"name": "XP4/Objects/Beams_01/Beam_01_1024_destructible",
+			"timeStamp": 1748935895229,
+			"origin": 3,
+			"guid": "5D461444-E7B7-6ED3-7E77-0E9A18C4A783",
+			"parentData": {
+				"guid": "5D461444-E7B6-6ED2-7E76-0E9A18C4A782",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E",
+				"typeName": "SpatialPrefabBlueprint",
+				"primaryInstanceGuid": "609839E4-5FB9-44F1-979A-4350639DE8C0"
+			},
+			"transform": {
+				"left": {
+					"x": -1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 0,
+					"z": -1
+				},
+				"forward": {
+					"x": 0,
+					"y": -1,
+					"z": 0
+				},
+				"trans": {
+					"x": -36.502,
+					"y": 72.184,
+					"z": 109
+				}
+			},
+			"originalRef": {
+				"typeName": "ReferenceObjectData",
+				"instanceGuid": "46A4D07B-F04C-46AB-B0C7-9B4A1FCEFBF1",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E"
+			}
+		},
+		{
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "30AD3C4C-D382-459C-B9D3-522FBF15D005",
+				"partitionGuid": "82FA7E02-B9C2-4292-9A02-EA0236BA15AE",
+				"name": "XP4/Objects/Beams_01/Beam_01_1024_destructible"
+			},
+			"name": "XP4/Objects/Beams_01/Beam_01_1024_destructible",
+			"timeStamp": 1748935895231,
+			"origin": 3,
+			"guid": "5D461444-E7B4-6ED0-7E74-0E9A18C4A786",
+			"parentData": {
+				"guid": "5D461444-E7B6-6ED2-7E76-0E9A18C4A782",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E",
+				"typeName": "SpatialPrefabBlueprint",
+				"primaryInstanceGuid": "609839E4-5FB9-44F1-979A-4350639DE8C0"
+			},
+			"transform": {
+				"left": {
+					"x": -1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 0,
+					"z": -1
+				},
+				"forward": {
+					"x": 0,
+					"y": -1,
+					"z": 0
+				},
+				"trans": {
+					"x": -36.502,
+					"y": 72.184,
+					"z": 104.852
+				}
+			},
+			"originalRef": {
+				"typeName": "ReferenceObjectData",
+				"instanceGuid": "B5E7E591-9350-43EE-853D-959830038584",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E"
+			}
+		},
+		{
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "30AD3C4C-D382-459C-B9D3-522FBF15D005",
+				"partitionGuid": "82FA7E02-B9C2-4292-9A02-EA0236BA15AE",
+				"name": "XP4/Objects/Beams_01/Beam_01_1024_destructible"
+			},
+			"name": "XP4/Objects/Beams_01/Beam_01_1024_destructible",
+			"timeStamp": 1748935895232,
+			"origin": 3,
+			"guid": "5D461444-E7B5-6ED1-7E75-0E9A18C4A78B",
+			"parentData": {
+				"guid": "5D461444-E7B6-6ED2-7E76-0E9A18C4A782",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E",
+				"typeName": "SpatialPrefabBlueprint",
+				"primaryInstanceGuid": "609839E4-5FB9-44F1-979A-4350639DE8C0"
+			},
+			"transform": {
+				"left": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"up": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": -1
+				},
+				"trans": {
+					"x": -36.870,
+					"y": 75.991,
+					"z": 109.788
+				}
+			},
+			"originalRef": {
+				"typeName": "ReferenceObjectData",
+				"instanceGuid": "30ABEE4B-E804-4770-9C36-1A220A79224E",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E"
+			}
+		},
+		{
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "BDACC48C-81E2-4B42-A12F-43BE94F66105",
+				"partitionGuid": "ECDFF245-8017-4AA8-8BDC-B6EAC05CDDB2",
+				"name": "Architecture/Me_StorefrontProps/ME_StoreProps_GarageClosed_01_Destruction"
+			},
+			"transform": {
+				"left": {
+					"x": 0,
+					"y": 0,
+					"z": -1
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"trans": {
+					"x": -36.339,
+					"y": 72.393,
+					"z": 108.684
+				}
+			},
+			"originalRef": {
+				"typeName": "ReferenceObjectData",
+				"instanceGuid": "91659ADA-21FC-4F66-ADEF-85E965A3A3CA",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E"
+			},
+			"timeStamp": 1748935895234,
+			"parentData": {
+				"guid": "5D461444-E7B6-6ED2-7E76-0E9A18C4A782",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E",
+				"typeName": "SpatialPrefabBlueprint",
+				"primaryInstanceGuid": "609839E4-5FB9-44F1-979A-4350639DE8C0"
+			},
+			"guid": "5D461444-E7B2-6ED6-7E72-0E9A18C4A792",
+			"name": "Architecture/Me_StorefrontProps/ME_StoreProps_GarageClosed_01_Destruction",
+			"origin": 3,
+			"variation": 4122844877
+		},
+		{
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "1D3733D6-D356-46A9-97FF-2C197172CF32",
+				"partitionGuid": "F48053B6-B2CF-4687-AF1A-0E543B26868E",
+				"name": "XP4/Architecture/MEC_House_Low_04_Breakable/MEC_House_Low_04_Breakable"
+			},
+			"name": "XP4/Architecture/MEC_House_Low_04_Breakable/MEC_House_Low_04_Breakable",
+			"timeStamp": 1748935895236,
+			"origin": 3,
+			"guid": "5D461444-E7B3-6ED7-7E73-0E9A18C4A79B",
+			"parentData": {
+				"guid": "5D461444-E7B6-6ED2-7E76-0E9A18C4A782",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E",
+				"typeName": "SpatialPrefabBlueprint",
+				"primaryInstanceGuid": "609839E4-5FB9-44F1-979A-4350639DE8C0"
+			},
+			"transform": {
+				"left": {
+					"x": -1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": -1
+				},
+				"trans": {
+					"x": -40.506,
+					"y": 72.582,
+					"z": 109.577
+				}
+			},
+			"originalRef": {
+				"typeName": "ReferenceObjectData",
+				"instanceGuid": "88001DC6-6A0F-4226-B41E-C9729A86ED8E",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E"
+			}
+		},
+		{
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "339C2C55-B02C-DA2E-8AF2-7794D6A91B7F",
+				"partitionGuid": "EECB4EA5-2E27-11E0-99B5-808FED0603A2",
+				"name": "XP_Raw/Props/BuildingDetails/CableSet_03"
+			},
+			"name": "XP_Raw/Props/BuildingDetails/CableSet_03",
+			"timeStamp": 1748935895239,
+			"origin": 3,
+			"guid": "5D461444-E7B0-6ED4-7E70-0E9A18C4A7A6",
+			"parentData": {
+				"guid": "5D461444-E7B6-6ED2-7E76-0E9A18C4A782",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E",
+				"typeName": "SpatialPrefabBlueprint",
+				"primaryInstanceGuid": "609839E4-5FB9-44F1-979A-4350639DE8C0"
+			},
+			"transform": {
+				"left": {
+					"x": -1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": -1
+				},
+				"trans": {
+					"x": -42.215,
+					"y": 77.333,
+					"z": 103.944
+				}
+			},
+			"originalRef": {
+				"typeName": "ReferenceObjectData",
+				"instanceGuid": "4FAD1250-F188-4123-92E6-21B6B8A5A726",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E"
+			}
+		},
+		{
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "86CD18BA-36CF-C355-BCAF-08BF7A7D85B6",
+				"partitionGuid": "FFCDD68C-2E27-11E0-99B5-808FED0603A2",
+				"name": "XP_Raw/Props/BuildingDetails/CableSet_04"
+			},
+			"name": "XP_Raw/Props/BuildingDetails/CableSet_04",
+			"timeStamp": 1748935895241,
+			"origin": 3,
+			"guid": "5D461444-E7B1-6ED5-7E71-0E9A18C4A7B3",
+			"parentData": {
+				"guid": "5D461444-E7B6-6ED2-7E76-0E9A18C4A782",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E",
+				"typeName": "SpatialPrefabBlueprint",
+				"primaryInstanceGuid": "609839E4-5FB9-44F1-979A-4350639DE8C0"
+			},
+			"transform": {
+				"left": {
+					"x": -1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": -1
+				},
+				"trans": {
+					"x": -45.415,
+					"y": 77.323,
+					"z": 103.944
+				}
+			},
+			"originalRef": {
+				"typeName": "ReferenceObjectData",
+				"instanceGuid": "A2048F9B-3264-4AB5-9BC9-4C239103FDE2",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E"
+			}
+		},
+		{
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "F8EAD6A5-9377-41DB-806A-E28D51FDDD6C",
+				"partitionGuid": "8F6B5EE8-F966-4CF6-8E7D-144129917CD0",
+				"name": "XP_Raw/Props/LitterPile/LitterPileSmall"
+			},
+			"name": "XP_Raw/Props/LitterPile/LitterPileSmall",
+			"timeStamp": 1748935895243,
+			"origin": 3,
+			"guid": "5D461444-E7BE-6EDA-7E7E-0E9A18C4A7C2",
+			"parentData": {
+				"guid": "5D461444-E7B6-6ED2-7E76-0E9A18C4A782",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E",
+				"typeName": "SpatialPrefabBlueprint",
+				"primaryInstanceGuid": "609839E4-5FB9-44F1-979A-4350639DE8C0"
+			},
+			"transform": {
+				"left": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": -1,
+					"y": 0,
+					"z": 0
+				},
+				"trans": {
+					"x": -39.580,
+					"y": 72.682,
+					"z": 107.897
+				}
+			},
+			"originalRef": {
+				"typeName": "ReferenceObjectData",
+				"instanceGuid": "738DF47D-834C-4827-A218-D6EDB744EA46",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E"
+			}
+		},
+		{
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "498CDC0B-C3AC-5FF6-556B-799AA40B79A1",
+				"partitionGuid": "DBDCA195-2E27-11E0-99B5-808FED0603A2",
+				"name": "XP_Raw/Props/BuildingDetails/CableSet_02"
+			},
+			"name": "XP_Raw/Props/BuildingDetails/CableSet_02",
+			"timeStamp": 1748935895244,
+			"origin": 3,
+			"guid": "5D461444-E7BF-6EDB-7E7F-0E9A18C4A7D3",
+			"parentData": {
+				"guid": "5D461444-E7B6-6ED2-7E76-0E9A18C4A782",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E",
+				"typeName": "SpatialPrefabBlueprint",
+				"primaryInstanceGuid": "609839E4-5FB9-44F1-979A-4350639DE8C0"
+			},
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": -42.189,
+					"y": 73.284,
+					"z": 103.787
+				}
+			},
+			"originalRef": {
+				"typeName": "ReferenceObjectData",
+				"instanceGuid": "CC414004-A818-47FD-8FB0-A5CB26438AC3",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E"
+			}
+		},
+		{
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "F0417AE3-067F-43C5-01C9-DBF0F2851FEB",
+				"partitionGuid": "FC6BE619-2EE2-11E0-AFEA-82D313D1BB36",
+				"name": "XP_Raw/Props/Doorset_01/Doorframe_01"
+			},
+			"name": "XP_Raw/Props/Doorset_01/Doorframe_01",
+			"timeStamp": 1748935895246,
+			"origin": 3,
+			"guid": "5D461444-E7BC-6ED8-7E7C-0E9A18C4A7E6",
+			"parentData": {
+				"guid": "5D461444-E7B6-6ED2-7E76-0E9A18C4A782",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E",
+				"typeName": "SpatialPrefabBlueprint",
+				"primaryInstanceGuid": "609839E4-5FB9-44F1-979A-4350639DE8C0"
+			},
+			"transform": {
+				"left": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": -1,
+					"y": 0,
+					"z": 0
+				},
+				"trans": {
+					"x": -44.372,
+					"y": 72.681,
+					"z": 103.964
+				}
+			},
+			"originalRef": {
+				"typeName": "ReferenceObjectData",
+				"instanceGuid": "E5EA5BE7-7379-4668-A247-E3BF8A38A80C",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E"
+			}
+		},
+		{
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "F0417AE3-067F-43C5-01C9-DBF0F2851FEB",
+				"partitionGuid": "FC6BE619-2EE2-11E0-AFEA-82D313D1BB36",
+				"name": "XP_Raw/Props/Doorset_01/Doorframe_01"
+			},
+			"name": "XP_Raw/Props/Doorset_01/Doorframe_01",
+			"timeStamp": 1748935895247,
+			"origin": 3,
+			"guid": "5D461444-E7BD-6ED9-7E7D-0E9A18C4A7FB",
+			"parentData": {
+				"guid": "5D461444-E7B6-6ED2-7E76-0E9A18C4A782",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E",
+				"typeName": "SpatialPrefabBlueprint",
+				"primaryInstanceGuid": "609839E4-5FB9-44F1-979A-4350639DE8C0"
+			},
+			"transform": {
+				"left": {
+					"x": -1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": -1
+				},
+				"trans": {
+					"x": -45.057,
+					"y": 72.681,
+					"z": 112.321
+				}
+			},
+			"originalRef": {
+				"typeName": "ReferenceObjectData",
+				"instanceGuid": "6474687F-3530-40DE-A7E6-DD02EF86C50A",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E"
+			}
+		},
+		{
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "48FEB7C3-F988-4F39-AD0B-B2B3031C410C",
+				"partitionGuid": "C373C4EF-7C43-4FDE-B03D-35C18A363BFD",
+				"name": "XP4/Objects/ConcreteWall/ConcreteWall_01ruin02b_destructible"
+			},
+			"name": "XP4/Objects/ConcreteWall/ConcreteWall_01ruin02b_destructible",
+			"timeStamp": 1748935895248,
+			"origin": 3,
+			"guid": "5D461444-E7BA-6EDE-7E7A-0E9A18C4A712",
+			"parentData": {
+				"guid": "5D461444-E7B6-6ED2-7E76-0E9A18C4A782",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E",
+				"typeName": "SpatialPrefabBlueprint",
+				"primaryInstanceGuid": "609839E4-5FB9-44F1-979A-4350639DE8C0"
+			},
+			"transform": {
+				"left": {
+					"x": -1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": -1
+				},
+				"trans": {
+					"x": -36.544,
+					"y": 75.054,
+					"z": 109.799
+				}
+			},
+			"originalRef": {
+				"typeName": "ReferenceObjectData",
+				"instanceGuid": "2BC13214-7CE9-4D4B-8A15-91A4044611B3",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E"
+			}
+		},
+		{
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "3A77506B-9B92-D76C-FBE2-484FD3C6016B",
+				"partitionGuid": "397D835D-2E02-11E0-99B5-808FED0603A2",
+				"name": "XP_Raw/Props/BuildingDetails/CableSet_01"
+			},
+			"name": "XP_Raw/Props/BuildingDetails/CableSet_01",
+			"timeStamp": 1748935895250,
+			"origin": 3,
+			"guid": "5D461444-E7BB-6EDF-7E7B-0E9A18C4A72B",
+			"parentData": {
+				"guid": "5D461444-E7B6-6ED2-7E76-0E9A18C4A782",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E",
+				"typeName": "SpatialPrefabBlueprint",
+				"primaryInstanceGuid": "609839E4-5FB9-44F1-979A-4350639DE8C0"
+			},
+			"transform": {
+				"left": {
+					"x": 0,
+					"y": 0,
+					"z": -1
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"trans": {
+					"x": -44.935,
+					"y": 73.346,
+					"z": 105.633
+				}
+			},
+			"originalRef": {
+				"typeName": "ReferenceObjectData",
+				"instanceGuid": "9C75B847-7B52-4C8B-8ABC-69775E3D44BB",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E"
+			}
+		},
+		{
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "D56C25EC-5EE9-4E37-9ADB-80C0090EDAD6",
+				"partitionGuid": "A98BE27D-971B-4F71-AD6F-DBFD04A4DF0B",
+				"name": "XP_Raw/Props/TrashCanMedium_01/TrashCanMedium_01"
+			},
+			"name": "XP_Raw/Props/TrashCanMedium_01/TrashCanMedium_01",
+			"timeStamp": 1748935895251,
+			"origin": 3,
+			"guid": "5D461444-E7B8-6EDC-7E78-0E9A18C4A746",
+			"parentData": {
+				"guid": "5D461444-E7B6-6ED2-7E76-0E9A18C4A782",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E",
+				"typeName": "SpatialPrefabBlueprint",
+				"primaryInstanceGuid": "609839E4-5FB9-44F1-979A-4350639DE8C0"
+			},
+			"transform": {
+				"left": {
+					"x": 0.403,
+					"y": 0,
+					"z": -0.915
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.915,
+					"y": 0,
+					"z": 0.403
+				},
+				"trans": {
+					"x": -44.544,
+					"y": 72.682,
+					"z": 114.222
+				}
+			},
+			"originalRef": {
+				"typeName": "ReferenceObjectData",
+				"instanceGuid": "E128451C-2F81-4F9D-8F33-B83F878BAFB9",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E"
+			}
+		},
+		{
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "F8EAD6A5-9377-41DB-806A-E28D51FDDD6C",
+				"partitionGuid": "8F6B5EE8-F966-4CF6-8E7D-144129917CD0",
+				"name": "XP_Raw/Props/LitterPile/LitterPileSmall"
+			},
+			"name": "XP_Raw/Props/LitterPile/LitterPileSmall",
+			"timeStamp": 1748935895252,
+			"origin": 3,
+			"guid": "5D461444-E7B9-6EDD-7E79-0E9A18C4A763",
+			"parentData": {
+				"guid": "5D461444-E7B6-6ED2-7E76-0E9A18C4A782",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E",
+				"typeName": "SpatialPrefabBlueprint",
+				"primaryInstanceGuid": "609839E4-5FB9-44F1-979A-4350639DE8C0"
+			},
+			"transform": {
+				"left": {
+					"x": -0.999,
+					"y": 0,
+					"z": -0.042
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.042,
+					"y": 0,
+					"z": -0.999
+				},
+				"trans": {
+					"x": -44.432,
+					"y": 72.686,
+					"z": 110.607
+				}
+			},
+			"originalRef": {
+				"typeName": "ReferenceObjectData",
+				"instanceGuid": "EC298615-0E5C-4A8A-8C5C-2CCE58A0DA53",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E"
+			}
+		},
+		{
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "8142BFAC-48B4-4F4F-837E-75C80B35C52B",
+				"partitionGuid": "E2FBB0EB-0CE7-4070-9C66-FE6A9C9B9B5A",
+				"name": "XP_Raw/Props/LitterPile/LitterPileSmall1"
+			},
+			"name": "XP_Raw/Props/LitterPile/LitterPileSmall1",
+			"timeStamp": 1748935895254,
+			"origin": 3,
+			"guid": "5D461444-E7A6-6EC2-7E66-0E9A18C4A682",
+			"parentData": {
+				"guid": "5D461444-E7B6-6ED2-7E76-0E9A18C4A782",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E",
+				"typeName": "SpatialPrefabBlueprint",
+				"primaryInstanceGuid": "609839E4-5FB9-44F1-979A-4350639DE8C0"
+			},
+			"transform": {
+				"left": {
+					"x": -0.969,
+					"y": 0,
+					"z": -0.247
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.247,
+					"y": 0,
+					"z": -0.969
+				},
+				"trans": {
+					"x": -43.007,
+					"y": 72.682,
+					"z": 109.594
+				}
+			},
+			"originalRef": {
+				"typeName": "ReferenceObjectData",
+				"instanceGuid": "97325A5B-4B52-4B18-8A09-437DDB69DE39",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E"
+			}
+		},
+		{
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "30AD3C4C-D382-459C-B9D3-522FBF15D005",
+				"partitionGuid": "82FA7E02-B9C2-4292-9A02-EA0236BA15AE",
+				"name": "XP4/Objects/Beams_01/Beam_01_1024_destructible"
+			},
+			"name": "XP4/Objects/Beams_01/Beam_01_1024_destructible",
+			"timeStamp": 1748935895256,
+			"origin": 3,
+			"guid": "5D461444-E7A7-6EC3-7E67-0E9A18C4A6A3",
+			"parentData": {
+				"guid": "5D461444-E7B6-6ED2-7E76-0E9A18C4A782",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E",
+				"typeName": "SpatialPrefabBlueprint",
+				"primaryInstanceGuid": "609839E4-5FB9-44F1-979A-4350639DE8C0"
+			},
+			"transform": {
+				"left": {
+					"x": 0,
+					"y": 0,
+					"z": -1
+				},
+				"up": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": -1,
+					"z": 0
+				},
+				"trans": {
+					"x": -36.881,
+					"y": 72.184,
+					"z": 110.358
+				}
+			},
+			"originalRef": {
+				"typeName": "ReferenceObjectData",
+				"instanceGuid": "88D11135-D556-428E-9571-A50404FF84DA",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E"
+			}
+		},
+		{
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "30AD3C4C-D382-459C-B9D3-522FBF15D005",
+				"partitionGuid": "82FA7E02-B9C2-4292-9A02-EA0236BA15AE",
+				"name": "XP4/Objects/Beams_01/Beam_01_1024_destructible"
+			},
+			"name": "XP4/Objects/Beams_01/Beam_01_1024_destructible",
+			"timeStamp": 1748935895258,
+			"origin": 3,
+			"guid": "5D461444-E7A4-6EC0-7E64-0E9A18C4A6C6",
+			"parentData": {
+				"guid": "5D461444-E7B6-6ED2-7E76-0E9A18C4A782",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E",
+				"typeName": "SpatialPrefabBlueprint",
+				"primaryInstanceGuid": "609839E4-5FB9-44F1-979A-4350639DE8C0"
+			},
+			"transform": {
+				"left": {
+					"x": 0,
+					"y": 0,
+					"z": -1
+				},
+				"up": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": -1,
+					"z": 0
+				},
+				"trans": {
+					"x": -36.875,
+					"y": 72.184,
+					"z": 114.433
+				}
+			},
+			"originalRef": {
+				"typeName": "ReferenceObjectData",
+				"instanceGuid": "12304ABA-9BE4-48A8-87C3-4B36D72C2B37",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E"
+			}
+		},
+		{
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "68F11352-25F5-30C4-8CB2-0BDD5F6FDC90",
+				"partitionGuid": "CEEEDDCB-39E6-11E0-904A-EDD5C2FCD772",
+				"name": "XP_Raw/Props/WindowSet_01/StorefrontWindow_07"
+			},
+			"name": "XP_Raw/Props/WindowSet_01/StorefrontWindow_07",
+			"timeStamp": 1748935895260,
+			"origin": 3,
+			"guid": "5D461444-E7A5-6EC1-7E65-0E9A18C4A6EB",
+			"parentData": {
+				"guid": "5D461444-E7B6-6ED2-7E76-0E9A18C4A782",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E",
+				"typeName": "SpatialPrefabBlueprint",
+				"primaryInstanceGuid": "609839E4-5FB9-44F1-979A-4350639DE8C0"
+			},
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": -36.833,
+					"y": 72.628,
+					"z": 114.357
+				}
+			},
+			"originalRef": {
+				"typeName": "ReferenceObjectData",
+				"instanceGuid": "759EBC9C-30A0-45DD-B019-103019D53B3D",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E"
+			}
+		},
+		{
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "AF913A34-04FA-5988-524A-442E0A424F3F",
+				"partitionGuid": "2F2F1BA4-4006-11E0-9324-C7FB9840AB62",
+				"name": "XP_Raw/Props/StoreSigns_01/StoreSign_Medium_01"
+			},
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": -35.416,
+					"y": 76.098,
+					"z": 112.315
+				}
+			},
+			"originalRef": {
+				"typeName": "ReferenceObjectData",
+				"instanceGuid": "473D86A9-8730-4254-929A-8B37FE93FEA2",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E"
+			},
+			"timeStamp": 1748935895263,
+			"parentData": {
+				"guid": "5D461444-E7B6-6ED2-7E76-0E9A18C4A782",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E",
+				"typeName": "SpatialPrefabBlueprint",
+				"primaryInstanceGuid": "609839E4-5FB9-44F1-979A-4350639DE8C0"
+			},
+			"guid": "5D461444-E7A2-6EC6-7E62-0E9A18C4A612",
+			"name": "XP_Raw/Props/StoreSigns_01/StoreSign_Medium_01",
+			"origin": 3,
+			"variation": 267045329
+		},
+		{
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "A862E75B-FD58-EE5C-97CE-A33CBAB63240",
+				"partitionGuid": "C635B83E-911A-11E0-9CDA-C9A78C07DECE",
+				"name": "XP_Raw/Architecture/Edge_Models/Metal_Bar"
+			},
+			"name": "XP_Raw/Architecture/Edge_Models/Metal_Bar",
+			"timeStamp": 1748935895266,
+			"origin": 3,
+			"guid": "5D461444-E7A3-6EC7-7E63-0E9A18C4A63B",
+			"parentData": {
+				"guid": "5D461444-E7B6-6ED2-7E76-0E9A18C4A782",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E",
+				"typeName": "SpatialPrefabBlueprint",
+				"primaryInstanceGuid": "609839E4-5FB9-44F1-979A-4350639DE8C0"
+			},
+			"transform": {
+				"left": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": -1,
+					"y": 0,
+					"z": 0
+				},
+				"trans": {
+					"x": -36.618,
+					"y": 73.173,
+					"z": 109.162
+				}
+			},
+			"originalRef": {
+				"typeName": "ReferenceObjectData",
+				"instanceGuid": "A7712D90-E371-4490-ACDA-643D0FCE59BE",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E"
+			}
+		},
+		{
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "A862E75B-FD58-EE5C-97CE-A33CBAB63240",
+				"partitionGuid": "C635B83E-911A-11E0-9CDA-C9A78C07DECE",
+				"name": "XP_Raw/Architecture/Edge_Models/Metal_Bar"
+			},
+			"name": "XP_Raw/Architecture/Edge_Models/Metal_Bar",
+			"timeStamp": 1748935895268,
+			"origin": 3,
+			"guid": "5D461444-E7A0-6EC4-7E60-0E9A18C4A666",
+			"parentData": {
+				"guid": "5D461444-E7B6-6ED2-7E76-0E9A18C4A782",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E",
+				"typeName": "SpatialPrefabBlueprint",
+				"primaryInstanceGuid": "609839E4-5FB9-44F1-979A-4350639DE8C0"
+			},
+			"transform": {
+				"left": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"up": {
+					"x": 0,
+					"y": -1,
+					"z": 0
+				},
+				"forward": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"trans": {
+					"x": -36.609,
+					"y": 73.175,
+					"z": 109.599
+				}
+			},
+			"originalRef": {
+				"typeName": "ReferenceObjectData",
+				"instanceGuid": "38A854C5-BD2B-44F3-A6F1-B4B37D420E9C",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E"
+			}
+		},
+		{
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "A862E75B-FD58-EE5C-97CE-A33CBAB63240",
+				"partitionGuid": "C635B83E-911A-11E0-9CDA-C9A78C07DECE",
+				"name": "XP_Raw/Architecture/Edge_Models/Metal_Bar"
+			},
+			"name": "XP_Raw/Architecture/Edge_Models/Metal_Bar",
+			"timeStamp": 1748935895271,
+			"origin": 3,
+			"guid": "5D461444-E7A1-6EC5-7E61-0E9A18C4A593",
+			"parentData": {
+				"guid": "5D461444-E7B6-6ED2-7E76-0E9A18C4A782",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E",
+				"typeName": "SpatialPrefabBlueprint",
+				"primaryInstanceGuid": "609839E4-5FB9-44F1-979A-4350639DE8C0"
+			},
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": -1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": -1
+				},
+				"trans": {
+					"x": -40.126,
+					"y": 73.182,
+					"z": 104.144
+				}
+			},
+			"originalRef": {
+				"typeName": "ReferenceObjectData",
+				"instanceGuid": "D4BFEDD2-9260-43FF-AA5B-A825F6E1DAEC",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E"
+			}
+		},
+		{
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "A862E75B-FD58-EE5C-97CE-A33CBAB63240",
+				"partitionGuid": "C635B83E-911A-11E0-9CDA-C9A78C07DECE",
+				"name": "XP_Raw/Architecture/Edge_Models/Metal_Bar"
+			},
+			"name": "XP_Raw/Architecture/Edge_Models/Metal_Bar",
+			"timeStamp": 1748935895302,
+			"origin": 3,
+			"guid": "5D461444-E7AE-6ECA-7E6E-0E9A18C4A5C2",
+			"parentData": {
+				"guid": "5D461444-E7B6-6ED2-7E76-0E9A18C4A782",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E",
+				"typeName": "SpatialPrefabBlueprint",
+				"primaryInstanceGuid": "609839E4-5FB9-44F1-979A-4350639DE8C0"
+			},
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": -39.711,
+					"y": 73.180,
+					"z": 104.107
+				}
+			},
+			"originalRef": {
+				"typeName": "ReferenceObjectData",
+				"instanceGuid": "2E963036-45CA-4C91-8CA7-236734719A85",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E"
+			}
+		},
+		{
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "71E7A629-EF0A-D477-DCEC-5F2F14383219",
+				"partitionGuid": "E888BD6C-EEB0-11E0-B8B0-95F09BC458FF",
+				"name": "XP_Raw/Architecture/Edge_Models/Pillar"
+			},
+			"name": "XP_Raw/Architecture/Edge_Models/Pillar",
+			"timeStamp": 1748935895304,
+			"origin": 3,
+			"guid": "5D461444-E7AF-6ECB-7E6F-0E9A18C4A5F3",
+			"parentData": {
+				"guid": "5D461444-E7B6-6ED2-7E76-0E9A18C4A782",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E",
+				"typeName": "SpatialPrefabBlueprint",
+				"primaryInstanceGuid": "609839E4-5FB9-44F1-979A-4350639DE8C0"
+			},
+			"transform": {
+				"left": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": -1,
+					"y": 0,
+					"z": 0
+				},
+				"trans": {
+					"x": -45.257,
+					"y": 73.618,
+					"z": 109.047
+				}
+			},
+			"originalRef": {
+				"typeName": "ReferenceObjectData",
+				"instanceGuid": "15F11BBC-1D5B-4BD1-8B07-E9B05E769821",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E"
+			}
+		},
+		{
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "A862E75B-FD58-EE5C-97CE-A33CBAB63240",
+				"partitionGuid": "C635B83E-911A-11E0-9CDA-C9A78C07DECE",
+				"name": "XP_Raw/Architecture/Edge_Models/Metal_Bar"
+			},
+			"name": "XP_Raw/Architecture/Edge_Models/Metal_Bar",
+			"timeStamp": 1748935895331,
+			"origin": 3,
+			"guid": "5D461444-E7AC-6EC8-7E6C-0E9A18C4A526",
+			"parentData": {
+				"guid": "5D461444-E7B6-6ED2-7E76-0E9A18C4A782",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E",
+				"typeName": "SpatialPrefabBlueprint",
+				"primaryInstanceGuid": "609839E4-5FB9-44F1-979A-4350639DE8C0"
+			},
+			"transform": {
+				"left": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 0,
+					"z": -1
+				},
+				"forward": {
+					"x": -1,
+					"y": 0,
+					"z": 0
+				},
+				"trans": {
+					"x": -42.177,
+					"y": 76.824,
+					"z": 109.258
+				}
+			},
+			"originalRef": {
+				"typeName": "ReferenceObjectData",
+				"instanceGuid": "1F0D1185-6739-4E96-9652-8C0C6C7E68D5",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E"
+			}
+		},
+		{
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "B5DB313A-CA8E-49DF-BCD7-F878AF53F22A",
+				"partitionGuid": "DC7BF92E-55A4-4669-99C3-241EEAD62EB5",
+				"name": "XP4/Architecture/MEC_House_Low_04_Breakable/StorefrontWindow_05_Destructible"
+			},
+			"name": "XP4/Architecture/MEC_House_Low_04_Breakable/StorefrontWindow_05_Destructible",
+			"timeStamp": 1748935895333,
+			"origin": 3,
+			"guid": "5D461444-E7AD-6EC9-7E6D-0E9A18C4A55B",
+			"parentData": {
+				"guid": "5D461444-E7B6-6ED2-7E76-0E9A18C4A782",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E",
+				"typeName": "SpatialPrefabBlueprint",
+				"primaryInstanceGuid": "609839E4-5FB9-44F1-979A-4350639DE8C0"
+			},
+			"transform": {
+				"left": {
+					"x": 0,
+					"y": 0,
+					"z": -1
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"trans": {
+					"x": -36.833,
+					"y": 72.667,
+					"z": 111.800
+				}
+			},
+			"originalRef": {
+				"typeName": "ReferenceObjectData",
+				"instanceGuid": "8D8E1C55-D6C5-4215-A257-7C7C2DDD6818",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E"
+			}
+		},
+		{
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "8142BFAC-48B4-4F4F-837E-75C80B35C52B",
+				"partitionGuid": "E2FBB0EB-0CE7-4070-9C66-FE6A9C9B9B5A",
+				"name": "XP_Raw/Props/LitterPile/LitterPileSmall1"
+			},
+			"name": "XP_Raw/Props/LitterPile/LitterPileSmall1",
+			"timeStamp": 1748935895383,
+			"origin": 3,
+			"guid": "5D461444-E7AA-6ECE-7E6A-0E9A18C4A492",
+			"parentData": {
+				"guid": "5D461444-E7B6-6ED2-7E76-0E9A18C4A782",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E",
+				"typeName": "SpatialPrefabBlueprint",
+				"primaryInstanceGuid": "609839E4-5FB9-44F1-979A-4350639DE8C0"
+			},
+			"transform": {
+				"left": {
+					"x": -0.570,
+					"y": 0,
+					"z": 0.821
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": -0.821,
+					"y": 0,
+					"z": -0.570
+				},
+				"trans": {
+					"x": -38.519,
+					"y": 72.682,
+					"z": 104.855
+				}
+			},
+			"originalRef": {
+				"typeName": "ReferenceObjectData",
+				"instanceGuid": "BBDA22D6-176D-401C-B347-4DBA77EEC5FF",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E"
+			}
+		},
+		{
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "CD94A084-50A2-4D6D-BCDE-1EE03310E2E3",
+				"partitionGuid": "3E0F96EB-0217-4175-B073-3A8C254C049B",
+				"name": "XP_Raw/Props/ACUnit_01/ACUnit_01_XP4"
+			},
+			"name": "XP_Raw/Props/ACUnit_01/ACUnit_01_XP4",
+			"timeStamp": 1748935895387,
+			"origin": 3,
+			"guid": "5D461444-E7AB-6ECF-7E6B-0E9A18C4A4CB",
+			"parentData": {
+				"guid": "5D461444-E7B6-6ED2-7E76-0E9A18C4A782",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E",
+				"typeName": "SpatialPrefabBlueprint",
+				"primaryInstanceGuid": "609839E4-5FB9-44F1-979A-4350639DE8C0"
+			},
+			"transform": {
+				"left": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": -1,
+					"y": 0,
+					"z": 0
+				},
+				"trans": {
+					"x": -45.385,
+					"y": 76.580,
+					"z": 105.333
+				}
+			},
+			"originalRef": {
+				"typeName": "ReferenceObjectData",
+				"instanceGuid": "764EEE1B-C896-4926-86A5-526119E522FC",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E"
+			}
+		},
+		{
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "CD94A084-50A2-4D6D-BCDE-1EE03310E2E3",
+				"partitionGuid": "3E0F96EB-0217-4175-B073-3A8C254C049B",
+				"name": "XP_Raw/Props/ACUnit_01/ACUnit_01_XP4"
+			},
+			"name": "XP_Raw/Props/ACUnit_01/ACUnit_01_XP4",
+			"timeStamp": 1748935895402,
+			"origin": 3,
+			"guid": "5D461444-E7A8-6ECC-7E68-0E9A18C4A406",
+			"parentData": {
+				"guid": "5D461444-E7B6-6ED2-7E76-0E9A18C4A782",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E",
+				"typeName": "SpatialPrefabBlueprint",
+				"primaryInstanceGuid": "609839E4-5FB9-44F1-979A-4350639DE8C0"
+			},
+			"transform": {
+				"left": {
+					"x": -1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": -1
+				},
+				"trans": {
+					"x": -36.554,
+					"y": 76.693,
+					"z": 103.974
+				}
+			},
+			"originalRef": {
+				"typeName": "ReferenceObjectData",
+				"instanceGuid": "994D1FE0-D303-4414-9E31-0A680AF3A881",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E"
+			}
+		},
+		{
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "0EE7BD89-F7A8-4BED-ABA2-8E22E7BA3852",
+				"partitionGuid": "6CD2DCD2-E480-4949-BD09-36ECAE3FBB53",
+				"name": "XP_Raw/Props/MarketSuppliesPropsets/MarketPropset_02_XP4"
+			},
+			"name": "XP_Raw/Props/MarketSuppliesPropsets/MarketPropset_02_XP4",
+			"timeStamp": 1748935895404,
+			"origin": 3,
+			"guid": "5D461444-E7A9-6ECD-7E69-0E9A18C4A443",
+			"parentData": {
+				"guid": "5D461444-E7B6-6ED2-7E76-0E9A18C4A782",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E",
+				"typeName": "SpatialPrefabBlueprint",
+				"primaryInstanceGuid": "609839E4-5FB9-44F1-979A-4350639DE8C0"
+			},
+			"transform": {
+				"left": {
+					"x": 0.364,
+					"y": 0,
+					"z": 0.932
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": -0.932,
+					"y": 0,
+					"z": 0.364
+				},
+				"trans": {
+					"x": -43.239,
+					"y": 72.682,
+					"z": 114.040
+				}
+			},
+			"originalRef": {
+				"typeName": "ReferenceObjectData",
+				"instanceGuid": "A9845839-C130-47B7-A404-070BABAC7A95",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E"
+			}
+		},
+		{
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2E336994-D65D-4E4D-A5B3-72E0A0A36E32",
+				"partitionGuid": "B65A5B59-1780-41F9-B56A-ADD63886BA95",
+				"name": "XP_Raw/Props/MarketSuppliesPropsets/MarketPropset_03_XP4"
+			},
+			"name": "XP_Raw/Props/MarketSuppliesPropsets/MarketPropset_03_XP4",
+			"timeStamp": 1748935895409,
+			"origin": 3,
+			"guid": "5D461444-E796-6EF2-7E56-0E9A18C4A382",
+			"parentData": {
+				"guid": "5D461444-E7B6-6ED2-7E76-0E9A18C4A782",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E",
+				"typeName": "SpatialPrefabBlueprint",
+				"primaryInstanceGuid": "609839E4-5FB9-44F1-979A-4350639DE8C0"
+			},
+			"transform": {
+				"left": {
+					"x": -0.012,
+					"y": 0,
+					"z": 1
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": -1,
+					"y": 0,
+					"z": -0.012
+				},
+				"trans": {
+					"x": -44.059,
+					"y": 72.702,
+					"z": 109.886
+				}
+			},
+			"originalRef": {
+				"typeName": "ReferenceObjectData",
+				"instanceGuid": "B7ECCBA8-0F37-4BAD-A1E7-F70634C64872",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E"
+			}
+		},
+		{
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "E6005841-5716-43CC-9611-9243D5C25BC0",
+				"partitionGuid": "E3713610-1206-42CB-82C4-5BAF68FA1B49",
+				"name": "XP_Raw/Props/Shelf_Junk/Shelf_Junk_02_XP4"
+			},
+			"name": "XP_Raw/Props/Shelf_Junk/Shelf_Junk_02_XP4",
+			"timeStamp": 1748935895412,
+			"origin": 3,
+			"guid": "5D461444-E797-6EF3-7E57-0E9A18C4A3C3",
+			"parentData": {
+				"guid": "5D461444-E7B6-6ED2-7E76-0E9A18C4A782",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E",
+				"typeName": "SpatialPrefabBlueprint",
+				"primaryInstanceGuid": "609839E4-5FB9-44F1-979A-4350639DE8C0"
+			},
+			"transform": {
+				"left": {
+					"x": -0.035,
+					"y": 0,
+					"z": -0.999
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.999,
+					"y": 0,
+					"z": -0.035
+				},
+				"trans": {
+					"x": -38.791,
+					"y": 72.682,
+					"z": 114.646
+				}
+			},
+			"originalRef": {
+				"typeName": "ReferenceObjectData",
+				"instanceGuid": "DA7F8092-8F59-4D78-A16D-14F30D84EA57",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E"
+			}
+		},
+		{
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "E6005841-5716-43CC-9611-9243D5C25BC0",
+				"partitionGuid": "E3713610-1206-42CB-82C4-5BAF68FA1B49",
+				"name": "XP_Raw/Props/Shelf_Junk/Shelf_Junk_02_XP4"
+			},
+			"name": "XP_Raw/Props/Shelf_Junk/Shelf_Junk_02_XP4",
+			"timeStamp": 1748935895415,
+			"origin": 3,
+			"guid": "5D461444-E794-6EF0-7E54-0E9A18C4A306",
+			"parentData": {
+				"guid": "5D461444-E7B6-6ED2-7E76-0E9A18C4A782",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E",
+				"typeName": "SpatialPrefabBlueprint",
+				"primaryInstanceGuid": "609839E4-5FB9-44F1-979A-4350639DE8C0"
+			},
+			"transform": {
+				"left": {
+					"x": 0.035,
+					"y": 0,
+					"z": 0.999
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": -0.999,
+					"y": 0,
+					"z": 0.035
+				},
+				"trans": {
+					"x": -39.513,
+					"y": 72.682,
+					"z": 106.317
+				}
+			},
+			"originalRef": {
+				"typeName": "ReferenceObjectData",
+				"instanceGuid": "09B8A58F-F9FE-4CB4-BA99-F43A298CB841",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E"
+			}
+		},
+		{
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "7FD0AC28-E86D-473C-92F0-657C5A8786D5",
+				"partitionGuid": "873E8079-3633-4981-8F9A-4850CFC6BB2F",
+				"name": "Props/InteriorProps/MetalShelf_01/MetalShelf_01_XP4"
+			},
+			"name": "Props/InteriorProps/MetalShelf_01/MetalShelf_01_XP4",
+			"timeStamp": 1748935895417,
+			"origin": 3,
+			"guid": "5D461444-E795-6EF1-7E55-0E9A18C4A34B",
+			"parentData": {
+				"guid": "5D461444-E7B6-6ED2-7E76-0E9A18C4A782",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E",
+				"typeName": "SpatialPrefabBlueprint",
+				"primaryInstanceGuid": "609839E4-5FB9-44F1-979A-4350639DE8C0"
+			},
+			"transform": {
+				"left": {
+					"x": -0.035,
+					"y": 0,
+					"z": -0.999
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.999,
+					"y": 0,
+					"z": -0.035
+				},
+				"trans": {
+					"x": -38.857,
+					"y": 72.682,
+					"z": 114.646
+				}
+			},
+			"originalRef": {
+				"typeName": "ReferenceObjectData",
+				"instanceGuid": "0E3E91B9-84A7-477F-872B-6D504368D37A",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E"
+			}
+		},
+		{
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "7FD0AC28-E86D-473C-92F0-657C5A8786D5",
+				"partitionGuid": "873E8079-3633-4981-8F9A-4850CFC6BB2F",
+				"name": "Props/InteriorProps/MetalShelf_01/MetalShelf_01_XP4"
+			},
+			"name": "Props/InteriorProps/MetalShelf_01/MetalShelf_01_XP4",
+			"timeStamp": 1748935895421,
+			"origin": 3,
+			"guid": "5D461444-E792-6EF6-7E52-0E9A18C4A292",
+			"parentData": {
+				"guid": "5D461444-E7B6-6ED2-7E76-0E9A18C4A782",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E",
+				"typeName": "SpatialPrefabBlueprint",
+				"primaryInstanceGuid": "609839E4-5FB9-44F1-979A-4350639DE8C0"
+			},
+			"transform": {
+				"left": {
+					"x": 0.035,
+					"y": 0,
+					"z": 0.999
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": -0.999,
+					"y": 0,
+					"z": 0.035
+				},
+				"trans": {
+					"x": -39.448,
+					"y": 72.682,
+					"z": 106.317
+				}
+			},
+			"originalRef": {
+				"typeName": "ReferenceObjectData",
+				"instanceGuid": "9C44FAEE-5EC5-417C-AF0C-45986164D788",
+				"partitionGuid": "E5F90FFE-F8DF-45B7-A0F5-5B7301B4584E"
+			}
+		},
+		{
+			"blueprintCtrRef": {
+				"typeName": "PrefabBlueprint",
+				"instanceGuid": "B3D20180-991A-DB07-E0AB-AC757336B787",
+				"partitionGuid": "B3D20180-991A-DB07-E0AB-AC757336B787",
+				"name": "xp4/architecture/me_storefronts/xp4_me_storefront_windoorsopening_iraq01_mp_prefab_nongroupable_autogen"
+			},
+			"timeStamp": 1748936123727,
+			"guid": "52B44189-AA3A-CA74-5A40-7E1AB99D7D2A",
+			"origin": 2,
+			"name": "xp4/architecture/me_storefronts/xp4_me_storefront_windoorsopening_iraq01_mp_prefab_nongroupable_autogen",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": -141.500,
+					"y": 70.814,
+					"z": 170.500
+				}
+			}
+		},
+		{
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "A3F05B9E-0FB6-496D-8DB4-A5DA18169E79",
+				"partitionGuid": "894A294B-90F6-45E3-8E3C-D9E413EE4A64",
+				"name": "XP4/Architecture/Me_Storefronts/XP4_ME_Storefronts_WinDoorsOpening_01_MP_Destruction"
+			},
+			"name": "XP4/Architecture/Me_Storefronts/XP4_ME_Storefronts_WinDoorsOpening_01_MP_Destruction",
+			"timeStamp": 1748936123729,
+			"origin": 3,
+			"guid": "52B44189-AA3B-CA75-5A41-7E1AB99D7D2B",
+			"parentData": {
+				"guid": "52B44189-AA3A-CA74-5A40-7E1AB99D7D2A",
+				"partitionGuid": "B3D20180-991A-DB07-E0AB-AC757336B787",
+				"typeName": "PrefabBlueprint",
+				"primaryInstanceGuid": "B3D20180-991A-DB07-E0AB-AC757336B787"
+			},
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": -141.500,
+					"y": 70.814,
+					"z": 170.500
+				}
+			},
+			"originalRef": {
+				"typeName": "ReferenceObjectData",
+				"instanceGuid": "1B053E69-BBF7-4EE4-A1A9-10CE3275B0B4",
+				"partitionGuid": "B3D20180-991A-DB07-E0AB-AC757336B787"
+			}
+		},
+		{
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "D6D9D6A6-EEB2-0D94-93C2-55F9CE2923E0",
+				"partitionGuid": "134BD250-ED30-11E1-A048-A9B4497C011F",
+				"name": "XP4/Architecture/Me_Storefronts/XP4_ME_Storefronts_TwoOpenings_Iraq_02_inside_Destruction_Prefab"
+			},
+			"timeStamp": 1748936214961,
+			"guid": "3FC18A5F-615D-53FA-9A41-19BAEF8E6FA3",
+			"origin": 2,
+			"name": "XP4/Architecture/Me_Storefronts/XP4_ME_Storefronts_TwoOpenings_Iraq_02_inside_Destruction_Prefab",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": -131.256,
+					"y": 70.812,
+					"z": 170.500
+				}
+			}
+		},
+		{
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "B29D5834-5FAF-4E03-A840-D7749EEB7799",
+				"partitionGuid": "C4375A25-95BD-4660-98E2-0D2B2EA8DF7D",
+				"name": "XP4/Architecture/Me_Storefronts/XP4_Me_Storefronts_TwoOpening_Iraq_02_Inside_Destruction"
+			},
+			"name": "XP4/Architecture/Me_Storefronts/XP4_Me_Storefronts_TwoOpening_Iraq_02_Inside_Destruction",
+			"timeStamp": 1748936214963,
+			"origin": 3,
+			"guid": "3FC18A5F-615C-53FB-9A40-19BAEF8E6FA2",
+			"parentData": {
+				"guid": "3FC18A5F-615D-53FA-9A41-19BAEF8E6FA3",
+				"partitionGuid": "134BD250-ED30-11E1-A048-A9B4497C011F",
+				"typeName": "SpatialPrefabBlueprint",
+				"primaryInstanceGuid": "D6D9D6A6-EEB2-0D94-93C2-55F9CE2923E0"
+			},
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": -131.256,
+					"y": 70.812,
+					"z": 170.500
+				}
+			},
+			"originalRef": {
+				"typeName": "ReferenceObjectData",
+				"instanceGuid": "39237E3F-ECBB-48C0-9D76-D1E0252E8078",
+				"partitionGuid": "134BD250-ED30-11E1-A048-A9B4497C011F"
+			}
+		},
+		{
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "EDC2ED81-3EDD-1E71-7A9B-22BBD82033B2",
+				"partitionGuid": "FDF0D4CA-F8EC-11E1-BF9A-8F02372F9791",
+				"name": "XP4/Architecture/Me_Storefronts/XP4_ME_Storefronts_Windows_Iraq01_Destruction_prefab"
+			},
+			"timeStamp": 1748936266760,
+			"guid": "8A91EC8D-3D68-0FFF-74B8-A013184378B5",
+			"origin": 2,
+			"name": "XP4/Architecture/Me_Storefronts/XP4_ME_Storefronts_Windows_Iraq01_Destruction_prefab",
+			"transform": {
+				"left": {
+					"x": -1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": -1
+				},
+				"trans": {
+					"x": -121.013,
+					"y": 70.812,
+					"z": 160.258
+				}
+			}
+		},
+		{
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "D90F6A4A-9FEE-4FED-84FF-8FE568018367",
+				"partitionGuid": "E62E82A8-5D22-46D6-8765-9ABC3C4166D2",
+				"name": "XP4/Architecture/Me_Storefronts/XP4_ME_Storefronts_Windows_Iraq01_Destruction"
+			},
+			"name": "XP4/Architecture/Me_Storefronts/XP4_ME_Storefronts_Windows_Iraq01_Destruction",
+			"timeStamp": 1748936266761,
+			"origin": 3,
+			"guid": "8A91EC8D-3D69-0FFE-74B9-A013184378B4",
+			"parentData": {
+				"guid": "8A91EC8D-3D68-0FFF-74B8-A013184378B5",
+				"partitionGuid": "FDF0D4CA-F8EC-11E1-BF9A-8F02372F9791",
+				"typeName": "SpatialPrefabBlueprint",
+				"primaryInstanceGuid": "EDC2ED81-3EDD-1E71-7A9B-22BBD82033B2"
+			},
+			"transform": {
+				"left": {
+					"x": -1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": -1
+				},
+				"trans": {
+					"x": -121.013,
+					"y": 70.812,
+					"z": 160.258
+				}
+			},
+			"originalRef": {
+				"typeName": "ReferenceObjectData",
+				"instanceGuid": "4D0FE46D-A753-4936-B0A7-EBEA7049B1C7",
+				"partitionGuid": "FDF0D4CA-F8EC-11E1-BF9A-8F02372F9791"
+			}
+		},
+		{
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "EDC2ED81-3EDD-1E71-7A9B-22BBD82033B2",
+				"partitionGuid": "FDF0D4CA-F8EC-11E1-BF9A-8F02372F9791",
+				"name": "XP4/Architecture/Me_Storefronts/XP4_ME_Storefronts_Windows_Iraq01_Destruction_prefab"
+			},
+			"timeStamp": 1748936313027,
+			"guid": "241CA75C-4C51-FBE6-117B-A53124EC11D0",
+			"origin": 2,
+			"name": "XP4/Architecture/Me_Storefronts/XP4_ME_Storefronts_Windows_Iraq01_Destruction_prefab",
+			"transform": {
+				"left": {
+					"x": -1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": -1
+				},
+				"trans": {
+					"x": -131.262,
+					"y": 70.812,
+					"z": 160.258
+				}
+			}
+		},
+		{
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "D90F6A4A-9FEE-4FED-84FF-8FE568018367",
+				"partitionGuid": "E62E82A8-5D22-46D6-8765-9ABC3C4166D2",
+				"name": "XP4/Architecture/Me_Storefronts/XP4_ME_Storefronts_Windows_Iraq01_Destruction"
+			},
+			"name": "XP4/Architecture/Me_Storefronts/XP4_ME_Storefronts_Windows_Iraq01_Destruction",
+			"timeStamp": 1748936313028,
+			"origin": 3,
+			"guid": "241CA75C-4C50-FBE7-117A-A53124EC11D1",
+			"parentData": {
+				"guid": "241CA75C-4C51-FBE6-117B-A53124EC11D0",
+				"partitionGuid": "FDF0D4CA-F8EC-11E1-BF9A-8F02372F9791",
+				"typeName": "SpatialPrefabBlueprint",
+				"primaryInstanceGuid": "EDC2ED81-3EDD-1E71-7A9B-22BBD82033B2"
+			},
+			"transform": {
+				"left": {
+					"x": -1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": -1
+				},
+				"trans": {
+					"x": -131.262,
+					"y": 70.812,
+					"z": 160.258
+				}
+			},
+			"originalRef": {
+				"typeName": "ReferenceObjectData",
+				"instanceGuid": "4D0FE46D-A753-4936-B0A7-EBEA7049B1C7",
+				"partitionGuid": "FDF0D4CA-F8EC-11E1-BF9A-8F02372F9791"
+			}
+		},
+		{
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "AA7145B0-CCFD-2ADE-91C2-EA9CE3F9788A",
+				"partitionGuid": "1D219309-EC6F-11E1-8A88-D19FCE8B918C",
+				"name": "XP4/Architecture/ME_Residential_05/ME_Residential_05_corner_windows_Prefab_XP4"
+			},
+			"timeStamp": 1748936379860,
+			"guid": "B3297479-369C-89DF-24BB-3C1394E53B43",
+			"origin": 2,
+			"name": "XP4/Architecture/ME_Residential_05/ME_Residential_05_corner_windows_Prefab_XP4",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": -131.401,
+					"y": 75.932,
+					"z": 170.313
+				}
+			}
+		},
+		{
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "CB0A05BC-37EF-C692-5977-5080A14E4DF4",
+				"partitionGuid": "EA169FDE-EC6E-11E1-8A88-D19FCE8B918C",
+				"name": "XP4/Architecture/ME_Residential_05/ME_Residential_05_dest_corner_windows_XP4"
+			},
+			"name": "XP4/Architecture/ME_Residential_05/ME_Residential_05_dest_corner_windows_XP4",
+			"timeStamp": 1748936379862,
+			"origin": 3,
+			"guid": "B3297479-369D-89DE-24BA-3C1394E53B42",
+			"parentData": {
+				"guid": "B3297479-369C-89DF-24BB-3C1394E53B43",
+				"partitionGuid": "1D219309-EC6F-11E1-8A88-D19FCE8B918C",
+				"typeName": "SpatialPrefabBlueprint",
+				"primaryInstanceGuid": "AA7145B0-CCFD-2ADE-91C2-EA9CE3F9788A"
+			},
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": -131.401,
+					"y": 75.932,
+					"z": 170.313
+				}
+			},
+			"originalRef": {
+				"typeName": "ReferenceObjectData",
+				"instanceGuid": "CB41402C-DBE3-4045-A41F-6F9BBE38C16F",
+				"partitionGuid": "1D219309-EC6F-11E1-8A88-D19FCE8B918C"
+			}
+		},
+		{
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "B61B93EC-5F52-879D-F7D0-19AB23BEA039",
+				"partitionGuid": "C22088C3-EC6D-11E1-8A88-D19FCE8B918C",
+				"name": "XP4/Architecture/ME_Residential_05/ME_Residential_05_destr_corner_XP4"
+			},
+			"name": "XP4/Architecture/ME_Residential_05/ME_Residential_05_destr_corner_XP4",
+			"timeStamp": 1748936379864,
+			"origin": 3,
+			"guid": "B3297479-369E-89DD-24B9-3C1394E53B47",
+			"parentData": {
+				"guid": "B3297479-369C-89DF-24BB-3C1394E53B43",
+				"partitionGuid": "1D219309-EC6F-11E1-8A88-D19FCE8B918C",
+				"typeName": "SpatialPrefabBlueprint",
+				"primaryInstanceGuid": "AA7145B0-CCFD-2ADE-91C2-EA9CE3F9788A"
+			},
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": -131.401,
+					"y": 75.932,
+					"z": 170.313
+				}
+			},
+			"originalRef": {
+				"typeName": "ReferenceObjectData",
+				"instanceGuid": "74478B01-65FC-43E7-82F6-7769E58F3C81",
+				"partitionGuid": "1D219309-EC6F-11E1-8A88-D19FCE8B918C"
+			}
+		},
+		{
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "CB0A05BC-37EF-C692-5977-5080A14E4DF4",
+				"partitionGuid": "EA169FDE-EC6E-11E1-8A88-D19FCE8B918C",
+				"name": "XP4/Architecture/ME_Residential_05/ME_Residential_05_dest_corner_windows_XP4"
+			},
+			"name": "XP4/Architecture/ME_Residential_05/ME_Residential_05_dest_corner_windows_XP4",
+			"timeStamp": 1748936379914,
+			"origin": 3,
+			"guid": "B3297479-369F-89DC-24B8-3C1394E53B4A",
+			"parentData": {
+				"guid": "B3297479-369C-89DF-24BB-3C1394E53B43",
+				"partitionGuid": "1D219309-EC6F-11E1-8A88-D19FCE8B918C",
+				"typeName": "SpatialPrefabBlueprint",
+				"primaryInstanceGuid": "AA7145B0-CCFD-2ADE-91C2-EA9CE3F9788A"
+			},
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": -131.401,
+					"y": 72.092,
+					"z": 170.313
+				}
+			},
+			"originalRef": {
+				"typeName": "ReferenceObjectData",
+				"instanceGuid": "0DCA1C4C-022A-4BD2-81B9-FFB3FB174FE7",
+				"partitionGuid": "1D219309-EC6F-11E1-8A88-D19FCE8B918C"
+			}
+		},
+		{
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "CB0A05BC-37EF-C692-5977-5080A14E4DF4",
+				"partitionGuid": "EA169FDE-EC6E-11E1-8A88-D19FCE8B918C",
+				"name": "XP4/Architecture/ME_Residential_05/ME_Residential_05_dest_corner_windows_XP4"
+			},
+			"name": "XP4/Architecture/ME_Residential_05/ME_Residential_05_dest_corner_windows_XP4",
+			"timeStamp": 1748936379917,
+			"origin": 3,
+			"guid": "B3297479-3698-89DB-24BF-3C1394E53B53",
+			"parentData": {
+				"guid": "B3297479-369C-89DF-24BB-3C1394E53B43",
+				"partitionGuid": "1D219309-EC6F-11E1-8A88-D19FCE8B918C",
+				"typeName": "SpatialPrefabBlueprint",
+				"primaryInstanceGuid": "AA7145B0-CCFD-2ADE-91C2-EA9CE3F9788A"
+			},
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": -131.401,
+					"y": 68.252,
+					"z": 170.313
+				}
+			},
+			"originalRef": {
+				"typeName": "ReferenceObjectData",
+				"instanceGuid": "50305323-BB92-4F1C-B999-ADFFF1D73E8C",
+				"partitionGuid": "1D219309-EC6F-11E1-8A88-D19FCE8B918C"
+			}
+		},
+		{
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "CB0A05BC-37EF-C692-5977-5080A14E4DF4",
+				"partitionGuid": "EA169FDE-EC6E-11E1-8A88-D19FCE8B918C",
+				"name": "XP4/Architecture/ME_Residential_05/ME_Residential_05_dest_corner_windows_XP4"
+			},
+			"name": "XP4/Architecture/ME_Residential_05/ME_Residential_05_dest_corner_windows_XP4",
+			"timeStamp": 1748936379919,
+			"origin": 3,
+			"guid": "B3297479-3699-89DA-24BE-3C1394E53B5A",
+			"parentData": {
+				"guid": "B3297479-369C-89DF-24BB-3C1394E53B43",
+				"partitionGuid": "1D219309-EC6F-11E1-8A88-D19FCE8B918C",
+				"typeName": "SpatialPrefabBlueprint",
+				"primaryInstanceGuid": "AA7145B0-CCFD-2ADE-91C2-EA9CE3F9788A"
+			},
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": -131.401,
+					"y": 64.412,
+					"z": 170.313
+				}
+			},
+			"originalRef": {
+				"typeName": "ReferenceObjectData",
+				"instanceGuid": "274FA6B3-364E-420F-BA67-63B4A53E3439",
+				"partitionGuid": "1D219309-EC6F-11E1-8A88-D19FCE8B918C"
+			}
+		},
+		{
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "A03254EB-ADE6-5EB1-ED4E-72C8A1AD1D21",
+				"partitionGuid": "ED66C796-0894-11E2-B79C-F654D8E0CB0E",
+				"name": "XP4/Objects/InvisibleCollision_01_XP4/InvisibleCollision_CharAndVeh_02_Scalable_XP4"
+			},
+			"name": "XP4/Objects/InvisibleCollision_01_XP4/InvisibleCollision_CharAndVeh_02_Scalable_XP4",
+			"timeStamp": 1748936379936,
+			"origin": 3,
+			"guid": "B3297479-369A-89D9-24BD-3C1394E53B67",
+			"parentData": {
+				"guid": "B3297479-369C-89DF-24BB-3C1394E53B43",
+				"partitionGuid": "1D219309-EC6F-11E1-8A88-D19FCE8B918C",
+				"typeName": "SpatialPrefabBlueprint",
+				"primaryInstanceGuid": "AA7145B0-CCFD-2ADE-91C2-EA9CE3F9788A"
+			},
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": -131.401,
+					"y": 75.932,
+					"z": 170.313
+				}
+			},
+			"originalRef": {
+				"typeName": "ReferenceObjectData",
+				"instanceGuid": "36F7A89A-088E-441A-9537-C88F50767951",
+				"partitionGuid": "1D219309-EC6F-11E1-8A88-D19FCE8B918C"
+			}
+		},
+		{
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "AA7145B0-CCFD-2ADE-91C2-EA9CE3F9788A",
+				"partitionGuid": "1D219309-EC6F-11E1-8A88-D19FCE8B918C",
+				"name": "XP4/Architecture/ME_Residential_05/ME_Residential_05_corner_windows_Prefab_XP4"
+			},
+			"timeStamp": 1748936419960,
+			"guid": "6DB2E297-8D7E-829B-CD38-3A0DBCABB225",
+			"origin": 2,
+			"name": "XP4/Architecture/ME_Residential_05/ME_Residential_05_corner_windows_Prefab_XP4",
+			"transform": {
+				"left": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": -1,
+					"y": 0,
+					"z": 0
+				},
+				"trans": {
+					"x": -141.342,
+					"y": 75.934,
+					"z": 160.173
+				}
+			}
+		},
+		{
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "CB0A05BC-37EF-C692-5977-5080A14E4DF4",
+				"partitionGuid": "EA169FDE-EC6E-11E1-8A88-D19FCE8B918C",
+				"name": "XP4/Architecture/ME_Residential_05/ME_Residential_05_dest_corner_windows_XP4"
+			},
+			"name": "XP4/Architecture/ME_Residential_05/ME_Residential_05_dest_corner_windows_XP4",
+			"timeStamp": 1748936419962,
+			"origin": 3,
+			"guid": "6DB2E297-8D7F-829A-CD39-3A0DBCABB224",
+			"parentData": {
+				"guid": "6DB2E297-8D7E-829B-CD38-3A0DBCABB225",
+				"partitionGuid": "1D219309-EC6F-11E1-8A88-D19FCE8B918C",
+				"typeName": "SpatialPrefabBlueprint",
+				"primaryInstanceGuid": "AA7145B0-CCFD-2ADE-91C2-EA9CE3F9788A"
+			},
+			"transform": {
+				"left": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": -1,
+					"y": 0,
+					"z": 0
+				},
+				"trans": {
+					"x": -141.342,
+					"y": 75.934,
+					"z": 160.173
+				}
+			},
+			"originalRef": {
+				"typeName": "ReferenceObjectData",
+				"instanceGuid": "CB41402C-DBE3-4045-A41F-6F9BBE38C16F",
+				"partitionGuid": "1D219309-EC6F-11E1-8A88-D19FCE8B918C"
+			}
+		},
+		{
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "B61B93EC-5F52-879D-F7D0-19AB23BEA039",
+				"partitionGuid": "C22088C3-EC6D-11E1-8A88-D19FCE8B918C",
+				"name": "XP4/Architecture/ME_Residential_05/ME_Residential_05_destr_corner_XP4"
+			},
+			"name": "XP4/Architecture/ME_Residential_05/ME_Residential_05_destr_corner_XP4",
+			"timeStamp": 1748936419966,
+			"origin": 3,
+			"guid": "6DB2E297-8D7C-8299-CD3A-3A0DBCABB221",
+			"parentData": {
+				"guid": "6DB2E297-8D7E-829B-CD38-3A0DBCABB225",
+				"partitionGuid": "1D219309-EC6F-11E1-8A88-D19FCE8B918C",
+				"typeName": "SpatialPrefabBlueprint",
+				"primaryInstanceGuid": "AA7145B0-CCFD-2ADE-91C2-EA9CE3F9788A"
+			},
+			"transform": {
+				"left": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": -1,
+					"y": 0,
+					"z": 0
+				},
+				"trans": {
+					"x": -141.342,
+					"y": 75.934,
+					"z": 160.173
+				}
+			},
+			"originalRef": {
+				"typeName": "ReferenceObjectData",
+				"instanceGuid": "74478B01-65FC-43E7-82F6-7769E58F3C81",
+				"partitionGuid": "1D219309-EC6F-11E1-8A88-D19FCE8B918C"
+			}
+		},
+		{
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "CB0A05BC-37EF-C692-5977-5080A14E4DF4",
+				"partitionGuid": "EA169FDE-EC6E-11E1-8A88-D19FCE8B918C",
+				"name": "XP4/Architecture/ME_Residential_05/ME_Residential_05_dest_corner_windows_XP4"
+			},
+			"name": "XP4/Architecture/ME_Residential_05/ME_Residential_05_dest_corner_windows_XP4",
+			"timeStamp": 1748936419969,
+			"origin": 3,
+			"guid": "6DB2E297-8D7D-8298-CD3B-3A0DBCABB22C",
+			"parentData": {
+				"guid": "6DB2E297-8D7E-829B-CD38-3A0DBCABB225",
+				"partitionGuid": "1D219309-EC6F-11E1-8A88-D19FCE8B918C",
+				"typeName": "SpatialPrefabBlueprint",
+				"primaryInstanceGuid": "AA7145B0-CCFD-2ADE-91C2-EA9CE3F9788A"
+			},
+			"transform": {
+				"left": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": -1,
+					"y": 0,
+					"z": 0
+				},
+				"trans": {
+					"x": -141.342,
+					"y": 72.094,
+					"z": 160.173
+				}
+			},
+			"originalRef": {
+				"typeName": "ReferenceObjectData",
+				"instanceGuid": "0DCA1C4C-022A-4BD2-81B9-FFB3FB174FE7",
+				"partitionGuid": "1D219309-EC6F-11E1-8A88-D19FCE8B918C"
+			}
+		},
+		{
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "CB0A05BC-37EF-C692-5977-5080A14E4DF4",
+				"partitionGuid": "EA169FDE-EC6E-11E1-8A88-D19FCE8B918C",
+				"name": "XP4/Architecture/ME_Residential_05/ME_Residential_05_dest_corner_windows_XP4"
+			},
+			"name": "XP4/Architecture/ME_Residential_05/ME_Residential_05_dest_corner_windows_XP4",
+			"timeStamp": 1748936419972,
+			"origin": 3,
+			"guid": "6DB2E297-8D7A-829F-CD3C-3A0DBCABB235",
+			"parentData": {
+				"guid": "6DB2E297-8D7E-829B-CD38-3A0DBCABB225",
+				"partitionGuid": "1D219309-EC6F-11E1-8A88-D19FCE8B918C",
+				"typeName": "SpatialPrefabBlueprint",
+				"primaryInstanceGuid": "AA7145B0-CCFD-2ADE-91C2-EA9CE3F9788A"
+			},
+			"transform": {
+				"left": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": -1,
+					"y": 0,
+					"z": 0
+				},
+				"trans": {
+					"x": -141.342,
+					"y": 68.254,
+					"z": 160.173
+				}
+			},
+			"originalRef": {
+				"typeName": "ReferenceObjectData",
+				"instanceGuid": "50305323-BB92-4F1C-B999-ADFFF1D73E8C",
+				"partitionGuid": "1D219309-EC6F-11E1-8A88-D19FCE8B918C"
+			}
+		},
+		{
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "CB0A05BC-37EF-C692-5977-5080A14E4DF4",
+				"partitionGuid": "EA169FDE-EC6E-11E1-8A88-D19FCE8B918C",
+				"name": "XP4/Architecture/ME_Residential_05/ME_Residential_05_dest_corner_windows_XP4"
+			},
+			"name": "XP4/Architecture/ME_Residential_05/ME_Residential_05_dest_corner_windows_XP4",
+			"timeStamp": 1748936419974,
+			"origin": 3,
+			"guid": "6DB2E297-8D7B-829E-CD3D-3A0DBCABB23C",
+			"parentData": {
+				"guid": "6DB2E297-8D7E-829B-CD38-3A0DBCABB225",
+				"partitionGuid": "1D219309-EC6F-11E1-8A88-D19FCE8B918C",
+				"typeName": "SpatialPrefabBlueprint",
+				"primaryInstanceGuid": "AA7145B0-CCFD-2ADE-91C2-EA9CE3F9788A"
+			},
+			"transform": {
+				"left": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": -1,
+					"y": 0,
+					"z": 0
+				},
+				"trans": {
+					"x": -141.342,
+					"y": 64.414,
+					"z": 160.173
+				}
+			},
+			"originalRef": {
+				"typeName": "ReferenceObjectData",
+				"instanceGuid": "274FA6B3-364E-420F-BA67-63B4A53E3439",
+				"partitionGuid": "1D219309-EC6F-11E1-8A88-D19FCE8B918C"
+			}
+		},
+		{
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "A03254EB-ADE6-5EB1-ED4E-72C8A1AD1D21",
+				"partitionGuid": "ED66C796-0894-11E2-B79C-F654D8E0CB0E",
+				"name": "XP4/Objects/InvisibleCollision_01_XP4/InvisibleCollision_CharAndVeh_02_Scalable_XP4"
+			},
+			"name": "XP4/Objects/InvisibleCollision_01_XP4/InvisibleCollision_CharAndVeh_02_Scalable_XP4",
+			"timeStamp": 1748936419975,
+			"origin": 3,
+			"guid": "6DB2E297-8D78-829D-CD3E-3A0DBCABB201",
+			"parentData": {
+				"guid": "6DB2E297-8D7E-829B-CD38-3A0DBCABB225",
+				"partitionGuid": "1D219309-EC6F-11E1-8A88-D19FCE8B918C",
+				"typeName": "SpatialPrefabBlueprint",
+				"primaryInstanceGuid": "AA7145B0-CCFD-2ADE-91C2-EA9CE3F9788A"
+			},
+			"transform": {
+				"left": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": -1,
+					"y": 0,
+					"z": 0
+				},
+				"trans": {
+					"x": -141.342,
+					"y": 75.934,
+					"z": 160.173
+				}
+			},
+			"originalRef": {
+				"typeName": "ReferenceObjectData",
+				"instanceGuid": "36F7A89A-088E-441A-9537-C88F50767951",
+				"partitionGuid": "1D219309-EC6F-11E1-8A88-D19FCE8B918C"
+			}
+		},
+		{
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "9B30D3A8-1632-0A77-3C33-CA2698D3165E",
+				"partitionGuid": "77FE5076-741F-11E1-B590-E15477B70163",
+				"name": "Levels/XP2_Office/Objects/AntennaSet_1_Backdrop"
+			},
+			"timeStamp": 1748936490527,
+			"guid": "35508ADB-34D4-FCEA-CD97-2D64503EE426",
+			"origin": 2,
+			"name": "Levels/XP2_Office/Objects/AntennaSet_1_Backdrop",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": -134.864,
+					"y": 91.934,
+					"z": 166.229
+				}
+			}
+		},
+		{
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "BA5F59A1-6CCC-6265-0A56-E388996952A2",
+				"partitionGuid": "7351C515-0DB7-11E0-AEDA-BDB581BF6D78",
+				"name": "Objects/AntennaParts_01/DishSet_Roof_1"
+			},
+			"timeStamp": 1748936501228,
+			"guid": "D0897CCD-23B9-A864-986C-2D9E0351A147",
+			"origin": 2,
+			"name": "Objects/AntennaParts_01/DishSet_Roof_1",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": -125.796,
+					"y": 91.932,
+					"z": 165.933
+				}
+			}
+		},
+		{
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "52A336BF-5A6E-4E11-AC95-46DEB7582D7D",
+				"partitionGuid": "8233521A-B10D-4998-A4D8-C5A9B197313B",
+				"name": "XP_Raw/Props/MarketRoof_02/MarketRoof_02_512_XP4"
+			},
+			"timeStamp": 1748936544993,
+			"guid": "7B17A1EF-4087-78F4-038F-BC777876EEB8",
+			"origin": 2,
+			"name": "XP_Raw/Props/MarketRoof_02/MarketRoof_02_512_XP4",
+			"transform": {
+				"left": {
+					"x": 0,
+					"y": 0,
+					"z": -1
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"trans": {
+					"x": -120.893,
+					"y": 70.814,
+					"z": 167.500
+				}
+			}
+		},
+		{
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "52A336BF-5A6E-4E11-AC95-46DEB7582D7D",
+				"partitionGuid": "8233521A-B10D-4998-A4D8-C5A9B197313B",
+				"name": "XP_Raw/Props/MarketRoof_02/MarketRoof_02_512_XP4"
+			},
+			"timeStamp": 1748936566260,
+			"guid": "8F361F90-A5BB-7EF1-CA7B-D5BF9D43EF3D",
+			"origin": 2,
+			"name": "XP_Raw/Props/MarketRoof_02/MarketRoof_02_512_XP4",
+			"transform": {
+				"left": {
+					"x": 0,
+					"y": 0,
+					"z": -1
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"trans": {
+					"x": -120.893,
+					"y": 70.814,
+					"z": 163.500
+				}
+			}
+		},
+		{
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "7B2CA7AD-8CDC-6D0D-A813-75983F9BE4DE",
+				"partitionGuid": "A7AD5219-B8BE-11E1-9F47-C5E0DB161F15",
+				"name": "XP3/objects/CivilianCar_XP3/CivilianCar_XP3"
+			},
+			"timeStamp": 1748936595362,
+			"guid": "48E7FCA4-E08F-3E5C-63EA-428A57D89EDE",
+			"origin": 2,
+			"name": "XP3/objects/CivilianCar_XP3/CivilianCar_XP3",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": -119.500,
+					"y": 70.814,
+					"z": 168
+				}
+			}
+		},
+		{
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "8B316AFD-876E-18E1-262F-A9B9B85DF6F4",
+				"partitionGuid": "3EC79946-D2A4-11E0-90B7-8A9E431724B4",
+				"name": "Levels/MP_001/Props/MP001_SignAdGiganticHangingDestruction"
+			},
+			"timeStamp": 1748936795227,
+			"guid": "1CEDABA7-2AF4-F4D0-B50B-1EB1E4480B1B",
+			"origin": 2,
+			"name": "Levels/MP_001/Props/MP001_SignAdGiganticHangingDestruction",
+			"transform": {
+				"left": {
+					"x": 0,
+					"y": 0,
+					"z": -1
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"trans": {
+					"x": -135.500,
+					"y": 81.500,
+					"z": 160.174
+				}
+			}
+		},
+		{
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "F6DBBF1C-2D5E-4FD0-ED52-3FC4999E15D2",
+				"partitionGuid": "1FA992CE-E905-11E0-B472-D8B2D27D0C95",
+				"name": "XP_Raw/Architecture/Construction_Building_01/Construction_Building_01_prefab"
+			},
+			"timeStamp": 1748937011494,
+			"guid": "53950E76-AA5A-299E-6659-81957C00E42E",
+			"origin": 2,
+			"name": "XP_Raw/Architecture/Construction_Building_01/Construction_Building_01_prefab",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": -97.500,
+					"y": 70.500,
+					"z": 208
+				}
+			}
+		},
+		{
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "783B04F3-1686-269E-0575-B075961B7D71",
+				"partitionGuid": "287A718A-EC20-11E0-B094-AA3D0E908BEA",
+				"name": "XP_Raw/Architecture/Construction_Building_01/Construction_Building_01_Breakable"
+			},
+			"name": "XP_Raw/Architecture/Construction_Building_01/Construction_Building_01_Breakable",
+			"timeStamp": 1748937011495,
+			"origin": 3,
+			"guid": "53950E76-AA5B-299F-6658-81957C00E42F",
+			"parentData": {
+				"guid": "53950E76-AA5A-299E-6659-81957C00E42E",
+				"partitionGuid": "1FA992CE-E905-11E0-B472-D8B2D27D0C95",
+				"typeName": "SpatialPrefabBlueprint",
+				"primaryInstanceGuid": "F6DBBF1C-2D5E-4FD0-ED52-3FC4999E15D2"
+			},
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": -97.500,
+					"y": 70.500,
+					"z": 208
+				}
+			},
+			"originalRef": {
+				"typeName": "ReferenceObjectData",
+				"instanceGuid": "DB3C61A4-52BC-407B-915E-82474F9D99A3",
+				"partitionGuid": "1FA992CE-E905-11E0-B472-D8B2D27D0C95"
+			}
+		}
+	]
 }
