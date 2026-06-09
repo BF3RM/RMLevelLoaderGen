@@ -85,7 +85,8 @@
         "XP5_003/AdvanceAndSecureStd",
         "XP5_003/AdvanceAndSecureAlt",
         "XP5_003/SkirmishStd",
-        "XP5_003/TrainingStd"
+        "XP5_003/TrainingStd",
+	"XP5_003/InsurgencyStd"
     ],
     "XP5_004/ConquestLarge0": [
         "XP5_004/AdvanceAndSecureStd",
@@ -111,7 +112,7 @@
         "XP5_002/AdvanceAndSecureAlt",
         "XP5_002/SkirmishStd",
         "XP5_002/TrainingStd",
-		"XP5_002/InsurgencyStd"
+	"XP5_002/InsurgencyStd"
     ],
     "MP_007/ConquestLarge0": [
         "MP_007/AdvanceAndSecureStd",
